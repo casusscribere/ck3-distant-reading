@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{REPORT_TITLE}</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<h1>{REPORT_TITLE}</h1>
+<p><em>Generated {DATE} by the distant-reader skill, methodology after
+<a href="https://anastasiasalter.net/HumanitiesAI/weekfour.html">Salter (Fall 2025)</a>
+and <a href="https://digitalhumanities.org/dhq/vol/11/2/000317/000317.html">Underwood (2017)</a>.</em></p>
+
+<h2>Corpus summary</h2>
+{CORPUS_METRICS_TABLE}
+
+<h2>Top content words</h2>
+{TOP_WORDS_TABLE}
+
+<h2>Distinctive vocabulary (TF-IDF)</h2>
+{TFIDF_TABLE}
+
+<h2>Visualizations</h2>
+<ul>
+  <li><a href="wordcloud.html">Word cloud (Step 3)</a></li>
+  <li><a href="network.html">Concept network (Step 6)</a></li>
+  <li><a href="phrases.html">Frequent phrases (Step 7)</a></li>
+</ul>
+
+<h2>Themes (Step 4-5)</h2>
+{THEMES_SECTION}
+
+<h2>Underwood verification</h2>
+<p>The passages below ground (or contest) the top claims. For each, ask: do
+these passages support the claim, or do they show the corpus discussing the
+term in a way that complicates a naive frequency interpretation?</p>
+{VERIFICATION_SECTION}
+
+<h2>Critique</h2>
+<div class="caveat"><strong>Curation determines findings.</strong>
+These results describe the supplied corpus, not the broader field it samples
+from. {CURATION_NOTE}</div>
+<div class="caveat"><strong>Frequency is not stance.</strong>
+A term appearing often does not mean the corpus endorses it. See the Underwood
+verification section above for grounding.</div>
+<div class="caveat"><strong>The iterations are the work.</strong>
+Stopword passes, artifact handling, network thresholds — these are interpretive
+decisions, not technical defaults.</div>
+
+</body></html>

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CK3 Dev Diaries — A Distant Reading</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --wood-deep: #1d1710;
+    --wood: #2a2017;
+    --parchment-hi: #efe6cf;
+    --parchment: #e3d5b0;
+    --parchment-aged: #c2a972;
+    --gold-hi: #f2dd8c;
+    --gold: #c9a227;
+    --bronze: #9c7a2e;
+    --ink: #2b2017;
+    --ink-soft: #5a4733;
+    --gules: #8f2222;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--wood-deep);
+    color: var(--ink);
+    font-family: "EB Garamond", Georgia, serif;
+    min-height: 100vh;
+    padding: 3rem 1.5rem;
+  }
+  .scroll {
+    max-width: 860px;
+    margin: 0 auto;
+    background: linear-gradient(180deg, var(--parchment-hi) 0%, var(--parchment) 55%, var(--parchment-aged) 100%);
+    border: 1px solid var(--bronze);
+    border-radius: 4px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.6);
+    padding: 3rem clamp(1.5rem, 5vw, 4rem);
+  }
+  h1 {
+    font-family: "Cinzel", Georgia, serif;
+    font-size: clamp(1.8rem, 4.5vw, 2.75rem);
+    text-align: center;
+    letter-spacing: .04em;
+    color: var(--ink);
+  }
+  .subtitle {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--ink-soft);
+    margin-top: .5rem;
+  }
+  .rule {
+    display: flex; align-items: center; gap: .75rem;
+    margin: 2rem 0;
+    color: var(--bronze);
+  }
+  .rule::before, .rule::after {
+    content: ""; flex: 1; height: 1px;
+    background: linear-gradient(90deg, transparent, var(--bronze), transparent);
+  }
+  .intro { font-size: 1.125rem; line-height: 1.65; color: var(--ink); }
+  .reports { list-style: none; margin-top: 2rem; display: grid; gap: 1.25rem; }
+  .reports a {
+    display: block;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--bronze);
+    border-radius: 4px;
+    background: rgba(255,255,255,.25);
+    text-decoration: none;
+    color: var(--ink);
+    transition: box-shadow .2s, transform .2s;
+  }
+  .reports a:hover {
+    box-shadow: 0 4px 14px rgba(107,79,28,.35);
+    transform: translateY(-2px);
+  }
+  .reports h2 {
+    font-family: "Cinzel", Georgia, serif;
+    font-size: 1.25rem;
+    color: var(--gules);
+    margin-bottom: .35rem;
+  }
+  .reports p { color: var(--ink-soft); line-height: 1.5; }
+  footer {
+    margin-top: 2.5rem;
+    text-align: center;
+    font-size: .95rem;
+    font-style: italic;
+    color: var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+  <main class="scroll">
+    <h1>The Chronicles, Distantly Read</h1>
+    <p class="subtitle">A computational reading of the Crusader Kings III dev diaries and their community responses</p>
+    <div class="rule">&#10070;</div>
+    <p class="intro">
+      This project applies distant-reading methods &mdash; word frequencies, TF-IDF, concept
+      networks, and frequent-phrase mining &mdash; to the Crusader Kings III developer diaries
+      published by Paradox Interactive and the forum replies they drew from the community.
+      Three reports follow: one on the diaries themselves, and two on the voices that answered them.
+    </p>
+    <ul class="reports">
+      <li><a href="ck3_distant_reading/CK3_distant_reading_report.html">
+        <h2>I. The Dev Diaries</h2>
+        <p>A distant reading of the developer diaries: what Paradox talks about when it talks about medieval rule.</p>
+      </a></li>
+      <li><a href="ck3_distant_reading/CK3_community_responses_report.html">
+        <h2>II. The Community Responds</h2>
+        <p>An analysis of community responses to the diaries &mdash; themes, concerns, and enthusiasms of the player base.</p>
+      </a></li>
+      <li><a href="ck3_distant_reading/CK3_Reply_Corpus_Distant_Reading.html">
+        <h2>III. The Reply Corpus</h2>
+        <p>A distant reading of the full forum reply corpus, with word clouds, concept networks, and phrase analysis.</p>
+      </a></li>
+    </ul>
+    <footer>NEH Workshop &middot; Week 4 &middot; Built with the Salter eight-step distant-reading method</footer>
+  </main>
+</body>
+</html>

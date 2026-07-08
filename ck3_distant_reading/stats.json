@@ -1,0 +1,218 @@
+{
+ "n_docs": 245,
+ "total_body_tokens": 503576,
+ "by_year": {
+  "2019": 10,
+  "2020": 43,
+  "2021": 52,
+  "2022": 49,
+  "2023": 29,
+  "2024": 22,
+  "2025": 30,
+  "2026": 10
+ },
+ "by_exp": [
+  [
+   "Royal Court",
+   46
+  ],
+  [
+   "Base game",
+   44
+  ],
+  [
+   "All Under Heaven",
+   21
+  ],
+  [
+   "Tours and Tournaments",
+   17
+  ],
+  [
+   "Friends and Foes",
+   16
+  ],
+  [
+   "Northern Lords",
+   15
+  ],
+  [
+   "Fate of Iberia",
+   13
+  ],
+  [
+   "Console Edition",
+   11
+  ],
+  [
+   "Roads to Power",
+   11
+  ],
+  [
+   "Khans of the Steppe",
+   10
+  ],
+  [
+   "Post-release patches",
+   9
+  ],
+  [
+   "Legacy of Persia",
+   7
+  ],
+  [
+   "Wards and Wardens",
+   6
+  ],
+  [
+   "Legends of the Dead",
+   5
+  ],
+  [
+   "Wandering Nobles",
+   5
+  ],
+  [
+   "Silk & Silver",
+   3
+  ],
+  [
+   "By God Alone",
+   3
+  ],
+  [
+   "Coronations",
+   3
+  ]
+ ],
+ "by_exp_words": [
+  [
+   "All Under Heaven",
+   72125
+  ],
+  [
+   "Royal Court",
+   62416
+  ],
+  [
+   "Base game",
+   61771
+  ],
+  [
+   "Tours and Tournaments",
+   58962
+  ],
+  [
+   "Khans of the Steppe",
+   42259
+  ],
+  [
+   "Roads to Power",
+   37715
+  ],
+  [
+   "Post-release patches",
+   27903
+  ],
+  [
+   "Northern Lords",
+   26741
+  ],
+  [
+   "Friends and Foes",
+   25127
+  ],
+  [
+   "Fate of Iberia",
+   19503
+  ],
+  [
+   "Legacy of Persia",
+   14507
+  ],
+  [
+   "Wandering Nobles",
+   10087
+  ],
+  [
+   "Legends of the Dead",
+   8860
+  ],
+  [
+   "Silk & Silver",
+   8328
+  ],
+  [
+   "By God Alone",
+   8139
+  ],
+  [
+   "Wards and Wardens",
+   7253
+  ],
+  [
+   "Console Edition",
+   7133
+  ],
+  [
+   "Coronations",
+   4747
+  ]
+ ],
+ "authors": [
+  [
+   "rageair",
+   37
+  ],
+  [
+   "PDX_Pariah",
+   24
+  ],
+  [
+   "Servancour",
+   20
+  ],
+  [
+   "PDX-Trinexx",
+   20
+  ],
+  [
+   "Wokeg",
+   14
+  ],
+  [
+   "blackninja9939",
+   12
+  ],
+  [
+   "Baron von Shoes",
+   7
+  ],
+  [
+   "Trin Tragula",
+   7
+  ],
+  [
+   "lachek",
+   6
+  ],
+  [
+   "Voffvoffhunden",
+   6
+  ],
+  [
+   "Carlberg",
+   6
+  ],
+  [
+   "Pdx_Meedoc",
+   6
+  ]
+ ],
+ "artifacts": {
+  "thread_metadata": 245,
+  "reactions": 234,
+  "op_signature": 184,
+  "thread_banner": 114
+ }
+}

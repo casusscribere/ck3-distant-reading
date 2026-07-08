@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:#1a1410"></rect>
+<text transform="translate(11,708)" font-size="230" style="fill:#d4564f">character</text>
+<text transform="translate(200,469)" font-size="220" style="fill:#b5694f">court</text>
+<text transform="translate(5,253)" font-size="212" style="fill:#d4564f">characters</text>
+<text transform="translate(198,132)" font-size="191" style="fill:#3d9b8f">event</text>
+<text transform="translate(830,127)" font-size="149" style="fill:#5b8c5a">realm</text>
+<text transform="translate(839,494)" font-size="146" style="fill:#c79a3a">faith</text>
+<text transform="translate(272,578)" font-size="140" style="fill:#7e6bbf">culture</text>
+<text transform="translate(800,331)" font-size="135" style="fill:#3f7fb0">war</text>
+<text transform="translate(1037,334)" font-size="133" style="fill:#8a8f3a">map</text>
+<text transform="translate(86,345)" font-size="131" style="fill:#3d9b8f">events</text>
+<text transform="translate(923,578)" font-size="108" style="fill:#5b8c5a">title</text>
+<text transform="translate(3,526)" font-size="66" style="fill:#5b8c5a">vassals</text>
+<text transform="translate(566,299)" font-size="62" style="fill:#9aa0a6">system</text>
+<text transform="translate(79,455) rotate(-90)" font-size="61" style="fill:#9aa0a6">ruler</text>
+<text transform="translate(2,40)" font-size="50" style="fill:#b5694f">dynasty</text>
+<text transform="translate(1016,378)" font-size="50" style="fill:#9aa0a6">rulers</text>
+<text transform="translate(11,566)" font-size="49" style="fill:#5b8c5a">liege</text>
+<text transform="translate(852,368)" font-size="46" style="fill:#9aa0a6">player</text>
+<text transform="translate(10,93)" font-size="45" style="fill:#d4564f">trait</text>
+<text transform="translate(618,492) rotate(-90)" font-size="44" style="fill:#5b8c5a">vassal</text>
+<text transform="translate(1274,705) rotate(-90)" font-size="43" style="fill:#3d9b8f">decision</text>
+<text transform="translate(928,33)" font-size="41" style="fill:#d4564f">opinion</text>
+<text transform="translate(753,643)" font-size="40" style="fill:#9aa0a6">power</text>
+<text transform="translate(28,484)" font-size="40" style="fill:#6c7a89">content</text>
+<text transform="translate(804,130) rotate(-90)" font-size="40" style="fill:#b5694f">house</text>
+<text transform="translate(620,338)" font-size="31" style="fill:#3d9b8f">activity</text>
+<text transform="translate(619,492)" font-size="29" style="fill:#9aa0a6">buildings</text>
+<text transform="translate(70,118)" font-size="29" style="fill:#c79a3a">holy</text>
+<text transform="translate(81,370)" font-size="29" style="fill:#9aa0a6">building</text>
+<text transform="translate(272,24)" font-size="29" style="fill:#3d9b8f">scheme</text>
+<text transform="translate(688,189)" font-size="29" style="fill:#5b8c5a">county</text>
+<text transform="translate(281,498)" font-size="29" style="fill:#7e6bbf">cultures</text>
+<text transform="translate(662,455)" font-size="29" style="fill:#b5694f">family</text>
+<text transform="translate(500,25)" font-size="29" style="fill:#3d9b8f">interaction</text>
+<text transform="translate(898,255) rotate(-90)" font-size="29" style="fill:#6c7a89">development</text>
+<text transform="translate(154,712) rotate(-90)" font-size="29" style="fill:#b5694f">prestige</text>
+<text transform="translate(73,432)" font-size="23" style="fill:#9aa0a6">experience</text>
+<text transform="translate(928,679)" font-size="23" style="fill:#c98a2e">gold</text>
+<text transform="translate(922,531) rotate(-90)" font-size="23" style="fill:#d4564f">traits</text>
+<text transform="translate(93,398)" font-size="23" style="fill:#9aa0a6">chance</text>
+<text transform="translate(805,22)" font-size="23" style="fill:#9aa0a6">current</text>
+<text transform="translate(1076,204)" font-size="23" style="fill:#9aa0a6">emperor</text>
+<text transform="translate(246,422)" font-size="23" style="fill:#5b8c5a">titles</text>
+<text transform="translate(1152,28)" font-size="23" style="fill:#9aa0a6">already</text>
+<text transform="translate(445,717) rotate(-90)" font-size="23" style="fill:#5b8c5a">government</text>
+<text transform="translate(1213,699) rotate(-90)" font-size="23" style="fill:#5b8c5a">empire</text>
+<text transform="translate(923,401)" font-size="23" style="fill:#9aa0a6">expansion</text>
+<text transform="translate(380,15)" font-size="23" style="fill:#9aa0a6">name</text>
+<text transform="translate(838,230)" font-size="23" style="fill:#9aa0a6">men</text>
+<text transform="translate(478,178)" font-size="23" style="fill:#9aa0a6">head</text>
+<text transform="translate(761,674)" font-size="23" style="fill:#7e6bbf">cultural</text>
+<text transform="translate(658,404)" font-size="23" style="fill:#9aa0a6">powerful</text>
+<text transform="translate(440,254)" font-size="23" style="fill:#9aa0a6">cost</text>
+<text transform="translate(1090,256)" font-size="23" style="fill:#9aa0a6">tier</text>
+<text transform="translate(53,212)" font-size="23" style="fill:#9aa0a6">likely</text>
+<text transform="translate(670,424)" font-size="23" style="fill:#9aa0a6">options</text>
+<text transform="translate(955,221)" font-size="23" style="fill:#9aa0a6">enough</text>
+<text transform="translate(1054,671)" font-size="23" style="fill:#7e6bbf">steppe</text>
+<text transform="translate(823,696)" font-size="23" style="fill:#3f7fb0">wars</text>
+<text transform="translate(493,631)" font-size="23" style="fill:#9aa0a6">modifiers</text>
+<text transform="translate(1216,399)" font-size="23" style="fill:#9aa0a6">life</text>
+<text transform="translate(692,223)" font-size="23" style="fill:#9aa0a6">control</text>
+<text transform="translate(1114,225)" font-size="23" style="fill:#9aa0a6">become</text>
+<text transform="translate(479,655)" font-size="23" style="fill:#9aa0a6">capital</text>
+<text transform="translate(825,43)" font-size="23" style="fill:#d4564f">stress</text>
+<text transform="translate(477,707)" font-size="23" style="fill:#9aa0a6">tooltip</text>
+<text transform="translate(837,101) rotate(-90)" font-size="23" style="fill:#9aa0a6">high</text>
+<text transform="translate(882,549)" font-size="23" style="fill:#9aa0a6">art</text>
+<text transform="translate(106,454)" font-size="23" style="fill:#9aa0a6">increase</text>
+<text transform="translate(405,247) rotate(-90)" font-size="23" style="fill:#9aa0a6">position</text>
+<text transform="translate(22,390) rotate(-90)" font-size="23" style="fill:#9aa0a6">bonuses</text>
+<text transform="translate(272,629)" font-size="23" style="fill:#9aa0a6">certain</text>
+<text transform="translate(443,227)" font-size="23" style="fill:#b5694f">royal</text>
+<text transform="translate(468,109)" font-size="23" style="fill:#9aa0a6">list</text>
+<text transform="translate(53,187)" font-size="23" style="fill:#3d9b8f">travel</text>
+<text transform="translate(477,680)" font-size="23" style="fill:#5b8c5a">holding</text>
+<text transform="translate(443,198)" font-size="23" style="fill:#9aa0a6">target</text>
+<text transform="translate(646,260) rotate(-90)" font-size="23" style="fill:#6c7a89">community</text>
+<text transform="translate(241,105)" font-size="23" style="fill:#9aa0a6">various</text>
+<text transform="translate(23,712) rotate(-90)" font-size="23" style="fill:#b5694f">artifacts</text>
+<text transform="translate(702,617) rotate(-90)" font-size="23" style="fill:#9aa0a6">situation</text>
+<text transform="translate(718,19)" font-size="23" style="fill:#3f7fb0">army</text>
+<text transform="translate(89,663)" font-size="23" style="fill:#9aa0a6">era</text>
+<text transform="translate(139,271)" font-size="22" style="fill:#5b8c5a">succession</text>
+<text transform="translate(19,225) rotate(-90)" font-size="22" style="fill:#9aa0a6">historical</text>
+<text transform="translate(193,555)" font-size="22" style="fill:#9aa0a6">amount</text>
+<text transform="translate(251,398)" font-size="22" style="fill:#9aa0a6">access</text>
+<text transform="translate(190,573)" font-size="22" style="fill:#9aa0a6">players</text>
+<text transform="translate(1194,510) rotate(-90)" font-size="22" style="fill:#5b8c5a">counties</text>
+<text transform="translate(778,490)" font-size="22" style="fill:#9aa0a6">choose</text>
+<text transform="translate(676,139) rotate(-90)" font-size="22" style="fill:#9aa0a6">showing</text>
+<text transform="translate(606,108) rotate(-90)" font-size="22" style="fill:#9aa0a6">main</text>
+<text transform="translate(424,714) rotate(-90)" font-size="22" style="fill:#9aa0a6">important</text>
+<text transform="translate(908,639)" font-size="22" style="fill:#c79a3a">faiths</text>
+<text transform="translate(1082,180)" font-size="22" style="fill:#9aa0a6">effect</text>
+<text transform="translate(9,274)" font-size="22" style="fill:#9aa0a6">several</text>
+<text transform="translate(771,150) rotate(-90)" font-size="22" style="fill:#9aa0a6">children</text>
+<text transform="translate(264,251) rotate(-90)" font-size="22" style="fill:#9aa0a6">trigger</text>
+<text transform="translate(196,134) rotate(-90)" font-size="22" style="fill:#9aa0a6">unique</text>
+<text transform="translate(223,714) rotate(-90)" font-size="22" style="fill:#9aa0a6">modifier</text>
+<text transform="translate(799,397)" font-size="22" style="fill:#9aa0a6">grand</text>
+<text transform="translate(213,22)" font-size="22" style="fill:#9aa0a6">done</text>
+<text transform="translate(472,469) rotate(-90)" font-size="22" style="fill:#d4564f">lifestyle</text>
+<text transform="translate(253,442)" font-size="22" style="fill:#5b8c5a">realms</text>
+<text transform="translate(1122,506) rotate(-90)" font-size="22" style="fill:#9aa0a6">try</text>
+<text transform="translate(704,695) rotate(-90)" font-size="22" style="fill:#c98a2e">trade</text>
+<text transform="translate(1275,259) rotate(-90)" font-size="22" style="fill:#9aa0a6">influence</text>
+<text transform="translate(272,270)" font-size="18" style="fill:#5b8c5a">administrative</text>
+<text transform="translate(1173,713)" font-size="18" style="fill:#9aa0a6">option</text>
+<text transform="translate(547,335)" font-size="18" style="fill:#8a8f3a">region</text>
+<text transform="translate(511,384)" font-size="18" style="fill:#9aa0a6">view</text>
+<text transform="translate(1089,545)" font-size="18" style="fill:#9aa0a6">text</text>
+<text transform="translate(65,52)" font-size="18" style="fill:#9aa0a6">progress</text>
+<text transform="translate(440,269)" font-size="18" style="fill:#9aa0a6">additional</text>
+<text transform="translate(381,237) rotate(-90)" font-size="18" style="fill:#9aa0a6">faction</text>
+<text transform="translate(822,712)" font-size="18" style="fill:#9aa0a6">often</text>
+<text transform="translate(66,640)" font-size="18" style="fill:#7e6bbf">china</text>
+<text transform="translate(483,347) rotate(-90)" font-size="18" style="fill:#9aa0a6">point</text>
+<text transform="translate(1121,111) rotate(-90)" font-size="18" style="fill:#3f7fb0">struggle</text>
+<text transform="translate(198,253) rotate(-90)" font-size="18" style="fill:#3f7fb0">military</text>
+<text transform="translate(887,446)" font-size="18" style="fill:#9aa0a6">easier</text>
+<text transform="translate(801,449)" font-size="18" style="fill:#6c7a89">issues</text>
+<text transform="translate(1186,700) rotate(-90)" font-size="18" style="fill:#9aa0a6">playing</text>
+<text transform="translate(36,133)" font-size="18" style="fill:#3f7fb0">armies</text>
+<text transform="translate(451,17)" font-size="18" style="fill:#9aa0a6">far</text>
+<text transform="translate(914,655)" font-size="18" style="fill:#9aa0a6">allow</text>
+<text transform="translate(1091,473) rotate(-90)" font-size="18" style="fill:#9aa0a6">medieval</text>
+<text transform="translate(997,144)" font-size="18" style="fill:#9aa0a6">free</text>
+<text transform="translate(1031,348) rotate(-90)" font-size="18" style="fill:#5b8c5a">kingdom</text>
+<text transform="translate(1157,43)" font-size="18" style="fill:#7e6bbf">nomadic</text>
+<text transform="translate(284,179)" font-size="18" style="fill:#6c7a89">issue</text>
+<text transform="translate(924,94) rotate(-90)" font-size="18" style="fill:#6c7a89">feedback</text>
+<text transform="translate(1088,561)" font-size="18" style="fill:#9aa0a6">later</text>
+<text transform="translate(296,121)" font-size="18" style="fill:#9aa0a6">area</text>
+<text transform="translate(70,678)" font-size="18" style="fill:#9aa0a6">higher</text>
+<text transform="translate(309,538)" font-size="18" style="fill:#9aa0a6">place</text>
+<text transform="translate(445,574) rotate(-90)" font-size="18" style="fill:#9aa0a6">sometimes</text>
+<text transform="translate(727,575)" font-size="18" style="fill:#c79a3a">piety</text>
+<text transform="translate(549,122) rotate(-90)" font-size="18" style="fill:#9aa0a6">language</text>
+<text transform="translate(618,675)" font-size="18" style="fill:#9aa0a6">old</text>
+</svg>

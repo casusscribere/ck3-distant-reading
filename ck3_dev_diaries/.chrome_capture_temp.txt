@@ -1,0 +1,25 @@
+Title: Dev Diary 193: Realm Maintenance 2026 (Part I) | Paradox Interactive Forums
+URL: https://forum.paradoxplaza.com/forum/developer-diary/dev-diary-193-realm-maintenance-2026-part-i.1909300/
+Source element: <article>
+---
+Hi everyone!
+
+Back in February, we gave you a sneak peek at what we have in store for our major update. We saw how eager many of you were to learn more, so we wanted to take the time to expand on the update and show off more of the changes coming soon.
+
+For this diary, we are joined by a special guest, who will introduce themselves next.
+
+A Familiar Face
+
+Hello everyone, I'm Agami or @Agamidae here. The mystery modder behind part of this update.
+
+I'm a UX designer, I've spent 2000 hours modding CK3, and you already know my work. I made the Fullscreen Barbershop, back when it wasn't fullscreen, and I made that Big Battle View you see in Koifish's videos.
+
+Years ago I had a dream. I wanted to finally put an actual functional ledger into the game.
+
+One weekend later, I had it.
+
+[I didn't say which game it was.]
+
+Imperator was the game that hooked me on Paradox modding and UX design. I wo
+
+[BODY TRUNCATED — full OP is 29,476 characters covering the 2026 Realm Maintenance update, mod-to-feature integration with community modder Agami (UX designer of the Fullscreen Barbershop and Big Battle View), Ledger system, and accompanying improvements. Full content remains at the source URL. This was originally blocked by Cloudflare's bot challenge for WebFetch; captured here via Claude in Chrome.]

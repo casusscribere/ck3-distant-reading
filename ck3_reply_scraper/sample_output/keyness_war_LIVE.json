@@ -1,0 +1,282 @@
+{
+ "a_label": "Community (live)",
+ "b_label": "Dev diary",
+ "a_docs": 1,
+ "b_docs": 1,
+ "a_tokens": 2693,
+ "b_tokens": 1510,
+ "over_a": [
+  {
+   "term": "like",
+   "a": 29,
+   "b": 2,
+   "per10k_a": 107.69,
+   "per10k_b": 13.25,
+   "g2": 15.08,
+   "over": "Community (live)"
+  },
+  {
+   "term": "knight",
+   "a": 12,
+   "b": 0,
+   "per10k_a": 44.56,
+   "per10k_b": 0.0,
+   "g2": 10.68,
+   "over": "Community (live)"
+  },
+  {
+   "term": "were",
+   "a": 11,
+   "b": 0,
+   "per10k_a": 40.85,
+   "per10k_b": 0.0,
+   "g2": 9.79,
+   "over": "Community (live)"
+  },
+  {
+   "term": "it's",
+   "a": 11,
+   "b": 0,
+   "per10k_a": 40.85,
+   "per10k_b": 0.0,
+   "g2": 9.79,
+   "over": "Community (live)"
+  },
+  {
+   "term": "don't",
+   "a": 9,
+   "b": 0,
+   "per10k_a": 33.42,
+   "per10k_b": 0.0,
+   "g2": 8.01,
+   "over": "Community (live)"
+  },
+  {
+   "term": "commanders",
+   "a": 8,
+   "b": 0,
+   "per10k_a": 29.71,
+   "per10k_b": 0.0,
+   "g2": 7.12,
+   "over": "Community (live)"
+  },
+  {
+   "term": "nice",
+   "a": 8,
+   "b": 0,
+   "per10k_a": 29.71,
+   "per10k_b": 0.0,
+   "g2": 7.12,
+   "over": "Community (live)"
+  },
+  {
+   "term": "early",
+   "a": 8,
+   "b": 0,
+   "per10k_a": 29.71,
+   "per10k_b": 0.0,
+   "g2": 7.12,
+   "over": "Community (live)"
+  },
+  {
+   "term": "would",
+   "a": 17,
+   "b": 2,
+   "per10k_a": 63.13,
+   "per10k_b": 13.25,
+   "g2": 6.44,
+   "over": "Community (live)"
+  },
+  {
+   "term": "think",
+   "a": 7,
+   "b": 0,
+   "per10k_a": 25.99,
+   "per10k_b": 0.0,
+   "g2": 6.23,
+   "over": "Community (live)"
+  },
+  {
+   "term": "see",
+   "a": 7,
+   "b": 0,
+   "per10k_a": 25.99,
+   "per10k_b": 0.0,
+   "g2": 6.23,
+   "over": "Community (live)"
+  },
+  {
+   "term": "yes",
+   "a": 7,
+   "b": 0,
+   "per10k_a": 25.99,
+   "per10k_b": 0.0,
+   "g2": 6.23,
+   "over": "Community (live)"
+  },
+  {
+   "term": "they",
+   "a": 19,
+   "b": 3,
+   "per10k_a": 70.55,
+   "per10k_b": 19.87,
+   "g2": 5.53,
+   "over": "Community (live)"
+  },
+  {
+   "term": "more",
+   "a": 22,
+   "b": 4,
+   "per10k_a": 81.69,
+   "per10k_b": 26.49,
+   "g2": 5.45,
+   "over": "Community (live)"
+  },
+  {
+   "term": "arms",
+   "a": 6,
+   "b": 0,
+   "per10k_a": 22.28,
+   "per10k_b": 0.0,
+   "g2": 5.34,
+   "over": "Community (live)"
+  }
+ ],
+ "over_b": [
+  {
+   "term": "you",
+   "a": 40,
+   "b": 54,
+   "per10k_a": 148.53,
+   "per10k_b": 357.62,
+   "g2": 17.95,
+   "over": "Dev diary"
+  },
+  {
+   "term": "your",
+   "a": 10,
+   "b": 24,
+   "per10k_a": 37.13,
+   "per10k_b": 158.94,
+   "g2": 16.85,
+   "over": "Dev diary"
+  },
+  {
+   "term": "advantage",
+   "a": 1,
+   "b": 11,
+   "per10k_a": 3.71,
+   "per10k_b": 72.85,
+   "g2": 16.53,
+   "over": "Dev diary"
+  },
+  {
+   "term": "troops",
+   "a": 4,
+   "b": 16,
+   "per10k_a": 14.85,
+   "per10k_b": 105.96,
+   "g2": 16.3,
+   "over": "Dev diary"
+  },
+  {
+   "term": "enemy",
+   "a": 2,
+   "b": 10,
+   "per10k_a": 7.43,
+   "per10k_b": 66.23,
+   "g2": 11.44,
+   "over": "Dev diary"
+  },
+  {
+   "term": "amount",
+   "a": 2,
+   "b": 10,
+   "per10k_a": 7.43,
+   "per10k_b": 66.23,
+   "g2": 11.44,
+   "over": "Dev diary"
+  },
+  {
+   "term": "progress",
+   "a": 1,
+   "b": 8,
+   "per10k_a": 3.71,
+   "per10k_b": 52.98,
+   "g2": 10.99,
+   "over": "Dev diary"
+  },
+  {
+   "term": "own",
+   "a": 0,
+   "b": 5,
+   "per10k_a": 0.0,
+   "per10k_b": 33.11,
+   "g2": 10.24,
+   "over": "Dev diary"
+  },
+  {
+   "term": "limit",
+   "a": 0,
+   "b": 5,
+   "per10k_a": 0.0,
+   "per10k_b": 33.11,
+   "g2": 10.24,
+   "over": "Dev diary"
+  },
+  {
+   "term": "damage",
+   "a": 2,
+   "b": 9,
+   "per10k_a": 7.43,
+   "per10k_b": 59.6,
+   "g2": 9.78,
+   "over": "Dev diary"
+  },
+  {
+   "term": "which",
+   "a": 4,
+   "b": 11,
+   "per10k_a": 14.85,
+   "per10k_b": 72.85,
+   "g2": 8.68,
+   "over": "Dev diary"
+  },
+  {
+   "term": "either",
+   "a": 0,
+   "b": 4,
+   "per10k_a": 0.0,
+   "per10k_b": 26.49,
+   "g2": 8.19,
+   "over": "Dev diary"
+  },
+  {
+   "term": "high",
+   "a": 0,
+   "b": 4,
+   "per10k_a": 0.0,
+   "per10k_b": 26.49,
+   "g2": 8.19,
+   "over": "Dev diary"
+  },
+  {
+   "term": "holding",
+   "a": 0,
+   "b": 4,
+   "per10k_a": 0.0,
+   "per10k_b": 26.49,
+   "g2": 8.19,
+   "over": "Dev diary"
+  },
+  {
+   "term": "pursuit",
+   "a": 0,
+   "b": 4,
+   "per10k_a": 0.0,
+   "per10k_b": 26.49,
+   "g2": 8.19,
+   "over": "Dev diary"
+  }
+ ]
+}

@@ -1,0 +1,2452 @@
+[
+  {
+    "forum_id": "1261140",
+    "wiki_number": null,
+    "title": "An Heir Is Born!",
+    "date": "2019-10-19",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 83841,
+    "extractor_output": "=== mcp-workspace-web_fetch-1780942336282.txt ===\n  Title:           'An Heir Is Born!'\n  Author handle:   'HottestRod'\n  Date:            2019-10-19  (raw: 'Oct 19, 2019')\n  Body lines:      89  (877 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 286\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2019-10-19_an-heir-is-born.md\n  Written:         8,352 bytes"
+  },
+  {
+    "forum_id": "1265472",
+    "wiki_number": 0,
+    "title": "The Vision",
+    "date": "2019-10-24",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 83409,
+    "extractor_output": "-web_fetch-1780942337716.txt ===\n  Title:           'CK3 - Dev Diary #0 - The Vision'\n  Author handle:   'Doomdark'\n  Date:            2019-10-24  (raw: 'Oct 24, 2019')\n  Body lines:      20  (457 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 296\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_000_2019-10-24_dev-diary-0-the-vision.md\n  Written:         5,874 bytes"
+  },
+  {
+    "forum_id": "1270519",
+    "wiki_number": 1,
+    "title": "Dynasties & Houses",
+    "date": "2019-10-31",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85343,
+    "extractor_output": "80940623405.txt ===\n  Title:           'CK3 Dev Diary #1 - Dynasties & Houses'\n  Author handle:   'rageair'\n  Date:            2019-10-31  (raw: 'Oct 31, 2019')\n  Body lines:      45  (1554 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 308\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_001_2019-10-31_dev-diary-1-dynasties-houses.md\n  Written:         12,029 bytes"
+  },
+  {
+    "forum_id": "1274052",
+    "wiki_number": 2,
+    "title": "The Medieval Map",
+    "date": "2019-11-06",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84102,
+    "extractor_output": "-1780942339547.txt ===\n  Title:           'CK3 Dev Diary #2- The Medieval Map'\n  Author handle:   'Servancour'\n  Date:            2019-11-06  (raw: 'Nov 6, 2019')\n  Body lines:      41  (919 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 306\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_002_2019-11-06_dev-diary-2-the-medieval-map.md\n  Written:         8,467 bytes"
+  },
+  {
+    "forum_id": "1279641",
+    "wiki_number": 3,
+    "title": "War",
+    "date": "2019-11-12",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86089,
+    "extractor_output": "cp-workspace-web_fetch-1780942341410.txt ===\n  Title:           'CK3 Dev Diary #3 - War'\n  Author handle:   'Servancour'\n  Date:            2019-11-12  (raw: 'Nov 12, 2019')\n  Body lines:      83  (2032 words)\n  Body images:     6\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 308\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_003_2019-11-12_dev-diary-3-war.md\n  Written:         14,790 bytes"
+  },
+  {
+    "forum_id": "1283865",
+    "wiki_number": 4,
+    "title": "Development & Buildings",
+    "date": "2019-11-19",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85709,
+    "extractor_output": "4.txt ===\n  Title:           'CK3 Dev Diary #04 - Development & Buildings'\n  Author handle:   'rageair'\n  Date:            2019-11-19  (raw: 'Nov 19, 2019')\n  Body lines:      37  (896 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 265\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_004_2019-11-19_dev-diary-04-development-buildings.md\n  Written:         8,659 bytes"
+  },
+  {
+    "forum_id": "1289167",
+    "wiki_number": 5,
+    "title": "Schemes, Secrets and Hooks",
+    "date": "2019-11-26",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85898,
+    "extractor_output": "tle:           'CK3 Dev Diary #5 - Schemes, Secrets and Hooks'\n  Author handle:   'Voffvoffhunden'\n  Date:            2019-11-26  (raw: 'Nov 26, 2019')\n  Body lines:      81  (1596 words)\n  Body images:     6\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 310\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_005_2019-11-26_dev-diary-5-schemes-secrets-and-hooks.md\n  Written:         12,383 bytes"
+  },
+  {
+    "forum_id": "1292549",
+    "wiki_number": 6,
+    "title": "Council, Vassals, & Spouse Councillor",
+    "date": "2019-12-03",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86325,
+    "extractor_output": " 'CK3 Dev Diary #06 - Council, Powerful Vassals, & Spouse Councillor'\n  Author handle:   'Wokeg'\n  Date:            2019-12-03  (raw: 'Dec 3, 2019')\n  Body lines:      98  (1695 words)\n  Body images:     6\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 324\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_006_2019-12-03_dev-diary-06-council-powerful-vassals-sp.md\n  Written:         13,094 bytes"
+  },
+  {
+    "forum_id": "1295264",
+    "wiki_number": 7,
+    "title": "Characters & Portraits",
+    "date": "2019-12-10",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85261,
+    "extractor_output": "83.txt ===\n  Title:           'CK3 Dev Diary #07 - Characters & Portraits'\n  Author handle:   'rageair'\n  Date:            2019-12-10  (raw: 'Dec 10, 2019')\n  Body lines:      42  (1105 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 317\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_007_2019-12-10_dev-diary-07-characters-portraits.md\n  Written:         9,689 bytes"
+  },
+  {
+    "forum_id": "1297711",
+    "wiki_number": 8,
+    "title": "Courts, Guests, and Wanderers",
+    "date": "2019-12-17",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85597,
+    "extractor_output": "tle:           'CK3 Dev Diary #08 - Courts, Guests, and Wanderers'\n  Author handle:   'Virvatuli'\n  Date:            2019-12-17  (raw: 'Dec 17, 2019')\n  Body lines:      29  (745 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 302\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_008_2019-12-17_dev-diary-08-courts-guests-and-wanderers.md\n  Written:         7,355 bytes"
+  },
+  {
+    "forum_id": "1308005",
+    "wiki_number": 9,
+    "title": "Lifestyles",
+    "date": "2020-01-14",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84388,
+    "extractor_output": "e-web_fetch-1780942357574.txt ===\n  Title:           'CK3 Dev Diary #09 - Lifestyles'\n  Author handle:   'rageair'\n  Date:            2020-01-14  (raw: 'Jan 14, 2020')\n  Body lines:      41  (843 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 283\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_009_2020-01-14_dev-diary-09-lifestyles.md\n  Written:         7,982 bytes"
+  },
+  {
+    "forum_id": "1312112",
+    "wiki_number": 10,
+    "title": "Lifestyle Events",
+    "date": "2020-01-21",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84796,
+    "extractor_output": "59578.txt ===\n  Title:           'CK3 Dev Diary #10 - Lifestyle Events'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-01-21  (raw: 'Jan 21, 2020')\n  Body lines:      37  (773 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 247\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_010_2020-01-21_dev-diary-10-lifestyle-events.md\n  Written:         7,566 bytes"
+  },
+  {
+    "forum_id": "1316277",
+    "wiki_number": 11,
+    "title": "Seduction, Torture and the Intrigue Perk Trees",
+    "date": "2020-01-28",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85187,
+    "extractor_output": "ary #11 - Seduction, Torture and the Intrigue Perk Trees'\n  Author handle:   'Voffvoffhunden'\n  Date:            2020-01-28  (raw: 'Jan 28, 2020')\n  Body lines:      271  (2168 words)\n  Body images:     31\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 506\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_011_2020-01-28_dev-diary-11-seduction-torture-and-the-i.md\n  Written:         16,982 bytes"
+  },
+  {
+    "forum_id": "1320994",
+    "wiki_number": 12,
+    "title": "The Stewardship Lifestyle",
+    "date": "2020-02-04",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86328,
+    "extractor_output": "e:           'CK3 Dev Diary #12 - The Stewardship Lifestyle'\n  Author handle:   'Voffvoffhunden'\n  Date:            2020-02-04  (raw: 'Feb 4, 2020')\n  Body lines:      281  (2365 words)\n  Body images:     26\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 522\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_012_2020-02-04_dev-diary-12-the-stewardship-lifestyle.md\n  Written:         18,060 bytes"
+  },
+  {
+    "forum_id": "1326963",
+    "wiki_number": 13,
+    "title": "The Learning Lifestyle",
+    "date": "2020-02-11",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86347,
+    "extractor_output": " Title:           'CK3 Dev Diary #13 - The Learning Lifestyle'\n  Author handle:   'Voffvoffhunden'\n  Date:            2020-02-11  (raw: 'Feb 11, 2020')\n  Body lines:      532  (3999 words)\n  Body images:     61\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 760\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_013_2020-02-11_dev-diary-13-the-learning-lifestyle.md\n  Written:         29,914 bytes"
+  },
+  {
+    "forum_id": "1333592",
+    "wiki_number": 14,
+    "title": "The Diplomacy Lifestyle",
+    "date": "2020-02-18",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85935,
+    "extractor_output": "itle:           'CK3 Dev Diary #14 - The Diplomacy Lifestyle'\n  Author handle:   'Voffvoffhunden'\n  Date:            2020-02-18  (raw: 'Feb 18, 2020')\n  Body lines:      302  (2916 words)\n  Body images:     30\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       detected\n  Reply boundary:  line 513\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_014_2020-02-18_dev-diary-14-the-diplomacy-lifestyle.md\n  Written:         21,323 bytes"
+  },
+  {
+    "forum_id": "1339978",
+    "wiki_number": 15,
+    "title": "The Martial Lifestyle",
+    "date": "2020-02-25",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85746,
+    "extractor_output": "xt ===\n  Title:           'CK3 Dev Diary #15 - The Martial Lifestyle'\n  Author handle:   'Heptopus'\n  Date:            2020-02-25  (raw: 'Feb 25, 2020')\n  Body lines:      240  (1805 words)\n  Body images:     29\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 451\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_015_2020-02-25_dev-diary-15-the-martial-lifestyle.md\n  Written:         15,958 bytes"
+  },
+  {
+    "forum_id": "1345581",
+    "wiki_number": 16,
+    "title": "Tutorials and Tooltips and Encyclopedias, Oh My!",
+    "date": "2020-03-03",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86543,
+    "extractor_output": "ary #16 - Tutorials and Tooltips and Encyclopedias, Oh My!'\n  Author handle:   'blackninja9939'\n  Date:            2020-03-03  (raw: 'Mar 3, 2020')\n  Body lines:      141  (2607 words)\n  Body images:     13\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 416\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_016_2020-03-03_dev-diary-16-tutorials-and-tooltips-and.md\n  Written:         18,176 bytes"
+  },
+  {
+    "forum_id": "1352640",
+    "wiki_number": 17,
+    "title": "Governments, Vassal Management, Laws, and Raiding",
+    "date": "2020-03-10",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86764,
+    "extractor_output": "Dev Diary #17 - Governments, Vassal Management, Laws, and Raiding'\n  Author handle:   'Meneth'\n  Date:            2020-03-10  (raw: 'Mar 10, 2020')\n  Body lines:      110  (1924 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 357\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_017_2020-03-10_dev-diary-17-governments-vassal-manageme.md\n  Written:         14,431 bytes"
+  },
+  {
+    "forum_id": "1357939",
+    "wiki_number": 18,
+    "title": "Men-at-Arms, Mercenaries and CBs",
+    "date": "2020-03-17",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84847,
+    "extractor_output": "     'CK3 Dev Diary #18 - Men-at-Arms, Mercenaries and CBs'\n  Author handle:   'Voffvoffhunden'\n  Date:            2020-03-17  (raw: 'Mar 17, 2020')\n  Body lines:      84  (1358 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_018_2020-03-17_dev-diary-18-men-at-arms-mercenaries-and.md\n  Written:         10,879 bytes"
+  },
+  {
+    "forum_id": "1363951",
+    "wiki_number": 19,
+    "title": "Factions and Civil Wars",
+    "date": "2020-03-24",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86383,
+    "extractor_output": "Title:           'CK3 Dev Diary #19: Factions and Civil Wars'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-03-24  (raw: 'Mar 24, 2020')\n  Body lines:      101  (1675 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 333\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_019_2020-03-24_dev-diary-19-factions-and-civil-wars.md\n  Written:         13,769 bytes"
+  },
+  {
+    "forum_id": "1368714",
+    "wiki_number": 20,
+    "title": "Religion and Faith",
+    "date": "2020-03-31",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85732,
+    "extractor_output": "h-1780942467652.txt ===\n  Title:           'Dev Diary #20 - Religion and Faith'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-03-31  (raw: 'Mar 31, 2020')\n  Body lines:      119  (1587 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 378\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_020_2020-03-31_religion-and-faith.md\n  Written:         13,230 bytes"
+  },
+  {
+    "forum_id": "1372700",
+    "wiki_number": 21,
+    "title": "Custom Faiths and Pagan Reformation",
+    "date": "2020-04-07",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85804,
+    "extractor_output": "           'Dev Diary #21 - Custom Faiths and Pagan Reformation'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-04-07  (raw: 'Apr 7, 2020')\n  Body lines:      55  (1151 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 322\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_021_2020-04-07_custom-faiths-and-pagan-reformation.md\n  Written:         10,290 bytes"
+  },
+  {
+    "forum_id": "1377711",
+    "wiki_number": 22,
+    "title": "A Medieval Tapestry",
+    "date": "2020-04-14",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86029,
+    "extractor_output": "92.txt ===\n  Title:           'CK3 - Dev Diary #22 - A Medieval Tapestry'\n  Author handle:   'Heptopus'\n  Date:            2020-04-14  (raw: 'Apr 14, 2020')\n  Body lines:      96  (1778 words)\n  Body images:     9\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 329\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_022_2020-04-14_dev-diary-22-a-medieval-tapestry.md\n  Written:         14,184 bytes"
+  },
+  {
+    "forum_id": "1382730",
+    "wiki_number": 23,
+    "title": "Holy Orders",
+    "date": "2020-04-21",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85054,
+    "extractor_output": "_fetch-1780942474022.txt ===\n  Title:           'CK3 - Dev Diary #23 - Holy Orders'\n  Author handle:   'Heptopus'\n  Date:            2020-04-21  (raw: 'Apr 21, 2020')\n  Body lines:      61  (891 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 293\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_023_2020-04-21_dev-diary-23-holy-orders.md\n  Written:         8,258 bytes"
+  },
+  {
+    "forum_id": "1386925",
+    "wiki_number": 24,
+    "title": "Fervor, Religious Hostility, and Doctrine Showcase",
+    "date": "2020-04-28",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86914,
+    "extractor_output": "#24 - Fervor, Religious Hostility, and Doctrine Showcase'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-04-28  (raw: 'Apr 28, 2020')\n  Body lines:      101  (1515 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_024_2020-04-28_fervor-religious-hostility-and-doctrine.md\n  Written:         13,534 bytes"
+  },
+  {
+    "forum_id": "1388210",
+    "wiki_number": 25,
+    "title": "Map Features and Map Modes",
+    "date": "2020-05-05",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84706,
+    "extractor_output": "le:           'CKIII Dev Diary #25 - Map Features and Map Modes'\n  Author handle:   'Servancour'\n  Date:            2020-05-05  (raw: 'May 5, 2020')\n  Body lines:      86  (1303 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 364\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_025_2020-05-05_ckiii-dev-diary-25-map-features-and-map.md\n  Written:         11,797 bytes"
+  },
+  {
+    "forum_id": "1389565",
+    "wiki_number": 26,
+    "title": "Map Scope",
+    "date": "2020-05-12",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 83304,
+    "extractor_output": "80942480365.txt ===\n  Title:           'CKIII Dev Diary #26 - Map Scope'\n  Author handle:   'Servancour'\n  Date:            2020-05-12  (raw: 'May 12, 2020')\n  Body lines:      179  (1339 words)\n  Body images:     35\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 448\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_026_2020-05-12_ckiii-dev-diary-26-map-scope.md\n  Written:         13,284 bytes"
+  },
+  {
+    "forum_id": "1391886",
+    "wiki_number": 27,
+    "title": "Cultures & Cultural Innovations",
+    "date": "2020-05-19",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85547,
+    "extractor_output": "          'CKIII Dev Diary #27 - Cultures & Cultural Innovations'\n  Author handle:   'Wokeg'\n  Date:            2020-05-19  (raw: 'May 19, 2020')\n  Body lines:      138  (1673 words)\n  Body images:     13\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 409\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_027_2020-05-19_ckiii-dev-diary-27-cultures-cultural-inn.md\n  Written:         14,156 bytes"
+  },
+  {
+    "forum_id": "1393627",
+    "wiki_number": 28,
+    "title": "Art Focus",
+    "date": "2020-05-26",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84610,
+    "extractor_output": "1780942484551.txt ===\n  Title:           'CKIII Dev Diary #28 - Art Focus'\n  Author handle:   'Carlberg'\n  Date:            2020-05-26  (raw: 'May 26, 2020')\n  Body lines:      238  (2557 words)\n  Body images:     25\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 510\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_028_2020-05-26_ckiii-dev-diary-28-art-focus.md\n  Written:         20,331 bytes"
+  },
+  {
+    "forum_id": "1395308",
+    "wiki_number": 29,
+    "title": "Even the Smallest Decision...",
+    "date": "2020-06-02",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84497,
+    "extractor_output": ":           'CKIII Dev Diary #29 - Even the Smallest Decision...'\n  Author handle:   'Heptopus'\n  Date:            2020-06-02  (raw: 'Jun 2, 2020')\n  Body lines:      72  (1062 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 332\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_029_2020-06-02_ckiii-dev-diary-29-even-the-smallest-dec.md\n  Written:         10,197 bytes"
+  },
+  {
+    "forum_id": "1397140",
+    "wiki_number": 30,
+    "title": "Event Scripting",
+    "date": "2020-06-09",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 85981,
+    "extractor_output": "itle:           'Crusader Kings 3 Dev Diary #30 - Event Scripting'\n  Author handle:   'Wokeg'\n  Date:            2020-06-09  (raw: 'Jun 9, 2020')\n  Body lines:      165  (2734 words)\n  Body images:     12\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 435\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_030_2020-06-09_crusader-kings-3-dev-diary-30-event-scri.md\n  Written:         19,863 bytes"
+  },
+  {
+    "forum_id": "1399764",
+    "wiki_number": 31,
+    "title": "A Stressful Situation",
+    "date": "2020-06-16",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84082,
+    "extractor_output": "\n  Title:           'CK3 Dev Diary #31 - A Stressful Situation'\n  Author handle:   'Baron von Shoes'\n  Date:            2020-06-16  (raw: 'Jun 16, 2020')\n  Body lines:      79  (1173 words)\n  Body images:     8\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 338\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_031_2020-06-16_dev-diary-31-a-stressful-situation.md\n  Written:         10,931 bytes"
+  },
+  {
+    "forum_id": "1401422",
+    "wiki_number": 32,
+    "title": "Going Medieval on Audio",
+    "date": "2020-06-23",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84307,
+    "extractor_output": "\n  Title:           'CK3 Dev Diary #32 - Going Medieval on Audio'\n  Author handle:   'Metal King'\n  Date:            2020-06-23  (raw: 'Jun 23, 2020')\n  Body lines:      132  (1687 words)\n  Body images:     3\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 412\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_032_2020-06-23_dev-diary-32-going-medieval-on-audio.md\n  Written:         13,324 bytes"
+  },
+  {
+    "forum_id": "1402760",
+    "wiki_number": 33,
+    "title": "An Offer You Can't Refuse",
+    "date": "2020-06-30",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84433,
+    "extractor_output": "           'CK3 Dev Diary #33 - An Offer You Can’t Refuse'\n  Author handle:   'blackninja9939'\n  Date:            2020-06-30  (raw: 'Jun 30, 2020')\n  Body lines:      194  (1463 words)\n  Body images:     24\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 425\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_033_2020-06-30_dev-diary-33-an-offer-you-can-t-refuse.md\n  Written:         13,241 bytes"
+  },
+  {
+    "forum_id": "1406933",
+    "wiki_number": 34,
+    "title": "It's all about appearances",
+    "date": "2020-07-21",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84521,
+    "extractor_output": " Title:           'CK3 Dev Diary #34 - It’s all about appearances'\n  Author handle:   'NilsW'\n  Date:            2020-07-21  (raw: 'Jul 21, 2020')\n  Body lines:      120  (1772 words)\n  Body images:     15\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 340\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_034_2020-07-21_dev-diary-34-it-s-all-about-appearances.md\n  Written:         14,263 bytes"
+  },
+  {
+    "forum_id": "1408176",
+    "wiki_number": 35,
+    "title": "User Testing Before Release",
+    "date": "2020-07-28",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84319,
+    "extractor_output": "e:           'CK3 Dev Diary #35 - User Testing Before Release'\n  Author handle:   'Naifuraifu'\n  Date:            2020-07-28  (raw: 'Jul 28, 2020')\n  Body lines:      53  (1402 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 274\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_035_2020-07-28_dev-diary-35-user-testing-before-release.md\n  Written:         11,312 bytes"
+  },
+  {
+    "forum_id": "1408620",
+    "wiki_number": 36,
+    "title": "Gotta Go Fast",
+    "date": "2020-08-04",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86487,
+    "extractor_output": "etch-1780942536434.txt ===\n  Title:           'CK3 Dev Diary #36 - Gotta Go Fast'\n  Author handle:   'Meneth'\n  Date:            2020-08-04  (raw: 'Aug 4, 2020')\n  Body lines:      93  (2846 words)\n  Body images:     3\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_036_2020-08-04_dev-diary-36-gotta-go-fast.md\n  Written:         19,358 bytes"
+  },
+  {
+    "forum_id": "1410656",
+    "wiki_number": 37,
+    "title": "Making Mods",
+    "date": "2020-08-11",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 87066,
+    "extractor_output": "1780942538523.txt ===\n  Title:           'CK3 Dev Diary #37 - Making Mods'\n  Author handle:   'blackninja9939'\n  Date:            2020-08-11  (raw: 'Aug 11, 2020')\n  Body lines:      242  (3239 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 488\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_037_2020-08-11_dev-diary-37-making-mods.md\n  Written:         24,229 bytes"
+  },
+  {
+    "forum_id": "1411956",
+    "wiki_number": 38,
+    "title": "Legacy Showcase",
+    "date": "2020-08-18",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 86011,
+    "extractor_output": "80942540812.txt ===\n  Title:           'CK3 Dev Diary #38 - Legacy Showcase'\n  Author handle:   'rageair'\n  Date:            2020-08-18  (raw: 'Aug 18, 2020')\n  Body lines:      153  (2540 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 410\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_038_2020-08-18_dev-diary-38-legacy-showcase.md\n  Written:         19,010 bytes"
+  },
+  {
+    "forum_id": "1413269",
+    "wiki_number": 39,
+    "title": "Achievements Showcase",
+    "date": "2020-08-25",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 84595,
+    "extractor_output": "         'Crusader Kings 3 Dev Diary #39 - Achievements Showcase'\n  Author handle:   'Wokeg'\n  Date:            2020-08-25  (raw: 'Aug 25, 2020')\n  Body lines:      204  (1613 words)\n  Body images:     56\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 437\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_039_2020-08-25_crusader-kings-3-dev-diary-39-achievemen.md\n  Written:         18,003 bytes"
+  },
+  {
+    "forum_id": "1414653",
+    "wiki_number": 40,
+    "title": "A new journey begins",
+    "date": "2020-09-01",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 82585,
+    "extractor_output": ".txt ===\n  Title:           'CK3 Dev Diary #40 - A new journey begins'\n  Author handle:   'Fogbound'\n  Date:            2020-09-01  (raw: 'Sep 1, 2020')\n  Body lines:      165  (1189 words)\n  Body images:     36\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 422\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_040_2020-09-01_dev-diary-40-a-new-journey-begins.md\n  Written:         11,823 bytes"
+  },
+  {
+    "forum_id": "1416565",
+    "wiki_number": null,
+    "title": "Patch 1.0.3. Out now!",
+    "date": "2020-09-03",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 82914,
+    "extractor_output": "47542.txt ===\n  Title:           'Patch 1.0.3. Out now! Checksum [935c]'\n  Author handle:   'PDX_Pariah'\n  Date:            2020-09-03  (raw: 'Sep 3, 2020')\n  Body lines:      81  (764 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 290\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2020-09-03_patch-1-0-3-out-now-checksum-935c.md\n  Written:         7,425 bytes"
+  },
+  {
+    "forum_id": "1420381",
+    "wiki_number": 41,
+    "title": "A Grand Thank You",
+    "date": "2020-09-08",
+    "expansion": "Base game",
+    "status": "ok",
+    "size_bytes": 83102,
+    "extractor_output": "2549845.txt ===\n  Title:           'CK3 Dev Diary #41 - A Grand Thank You!'\n  Author handle:   'rageair'\n  Date:            2020-09-08  (raw: 'Sep 8, 2020')\n  Body lines:      166  (2125 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 364\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_041_2020-09-08_dev-diary-41-a-grand-thank-you.md\n  Written:         17,503 bytes"
+  },
+  {
+    "forum_id": "1428193",
+    "wiki_number": 42,
+    "title": "1.1 Patch Notes",
+    "date": "2020-09-28",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 101878,
+    "extractor_output": "42552446.txt ===\n  Title:           'CK3 Dev Diary #42 - 1.1 Patch Notes'\n  Author handle:   'rageair'\n  Date:            2020-09-28  (raw: 'Sep 28, 2020')\n  Body lines:      1028  (15471 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       0 entries\n  Signature:       not found\n  Reply boundary:  not found\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_042_2020-09-28_dev-diary-42-1-1-patch-notes.md\n  Written:         98,285 bytes"
+  },
+  {
+    "forum_id": "1429954",
+    "wiki_number": null,
+    "title": "Patch 1.1.2 is now live!",
+    "date": "2020-10-01",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 82171,
+    "extractor_output": "pace-web_fetch-1780942554868.txt ===\n  Title:           'Patch 1.1.2 is now live!'\n  Author handle:   'PDX_Pariah'\n  Date:            2020-10-01  (raw: 'Oct 1, 2020')\n  Body lines:      78  (740 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       not found\n  Reply boundary:  line 291\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2020-10-01_patch-1-1-2-is-now-live.md\n  Written:         7,314 bytes"
+  },
+  {
+    "forum_id": "1436353",
+    "wiki_number": null,
+    "title": "Patch 1.1.3 is now live!",
+    "date": "2020-10-15",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 82860,
+    "extractor_output": "ace-web_fetch-1780942556852.txt ===\n  Title:           'Patch 1.1.3 is now live!'\n  Author handle:   'PDX_Pariah'\n  Date:            2020-10-15  (raw: 'Oct 15, 2020')\n  Body lines:      81  (803 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 292\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2020-10-15_patch-1-1-3-is-now-live.md\n  Written:         7,691 bytes"
+  },
+  {
+    "forum_id": "1438222",
+    "wiki_number": null,
+    "title": "Hotfix 1.1.3.1 is now live!",
+    "date": "2020-10-22",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 82749,
+    "extractor_output": "b_fetch-1780942558852.txt ===\n  Title:           'Hotfix 1.1.3.1 is now live!'\n  Author handle:   'PDX_Pariah'\n  Date:            2020-10-22  (raw: 'Oct 22, 2020')\n  Body lines:      58  (611 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 219\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2020-10-22_hotfix-1-1-3-1-is-now-live.md\n  Written:         6,320 bytes"
+  },
+  {
+    "forum_id": "1441657",
+    "wiki_number": 43,
+    "title": "A Ruler of Your Own",
+    "date": "2020-11-10",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 84363,
+    "extractor_output": " ===\n  Title:           'CK3 Dev Diary 43 - A Ruler of Your Own'\n  Author handle:   'blackninja9939'\n  Date:            2020-11-10  (raw: 'Nov 10, 2020')\n  Body lines:      262  (2482 words)\n  Body images:     29\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 541\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_043_2020-11-10_dev-diary-43-a-ruler-of-your-own.md\n  Written:         19,439 bytes"
+  },
+  {
+    "forum_id": "1442919",
+    "wiki_number": 44,
+    "title": "1.2 Bits & Bobs",
+    "date": "2020-11-17",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 83994,
+    "extractor_output": "1780942563223.txt ===\n  Title:           'CK3 Dev Diary 44 - 1.2 Bits & Bobs'\n  Author handle:   'rageair'\n  Date:            2020-11-17  (raw: 'Nov 17, 2020')\n  Body lines:      300  (3397 words)\n  Body images:     12\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 459\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_044_2020-11-17_dev-diary-44-1-2-bits-bobs.md\n  Written:         25,004 bytes"
+  },
+  {
+    "forum_id": "1444123",
+    "wiki_number": 45,
+    "title": "1.2 Patch Notes",
+    "date": "2020-11-24",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 90401,
+    "extractor_output": "80942565781.txt ===\n  Title:           'CK3 Dev Diary #45 - 1.2 Patch Notes'\n  Author handle:   'rageair'\n  Date:            2020-11-24  (raw: 'Nov 24, 2020')\n  Body lines:      510  (7832 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 753\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_045_2020-11-24_dev-diary-45-1-2-patch-notes.md\n  Written:         51,730 bytes"
+  },
+  {
+    "forum_id": "1446267",
+    "wiki_number": 46,
+    "title": "1.2.2 Patch Notes",
+    "date": "2020-12-04",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 83627,
+    "extractor_output": "42603806.txt ===\n  Title:           'CK3 Dev Diary #46 - 1.2.2 Patch Notes'\n  Author handle:   'rageair'\n  Date:            2020-12-04  (raw: 'Dec 4, 2020')\n  Body lines:      185  (2395 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 395\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_046_2020-12-04_dev-diary-46-1-2-2-patch-notes.md\n  Written:         19,082 bytes"
+  },
+  {
+    "forum_id": "1448340",
+    "wiki_number": 47,
+    "title": "Happy Holidays!",
+    "date": "2020-12-15",
+    "expansion": "Post-release patches",
+    "status": "ok",
+    "size_bytes": 83032,
+    "extractor_output": "1780942605583.txt ===\n  Title:           'CK3 Dev Diary #47 - Happy Holidays!'\n  Author handle:   'PDX_Pariah'\n  Date:            2020-12-15  (raw: 'Dec 15, 2020')\n  Body lines:      11  (217 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 239\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_047_2020-12-15_dev-diary-47-happy-holidays.md\n  Written:         4,325 bytes"
+  },
+  {
+    "forum_id": "1456752",
+    "wiki_number": 48,
+    "title": "The Team",
+    "date": "2021-02-16",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 84484,
+    "extractor_output": "eb_fetch-1780942608094.txt ===\n  Title:           'CK3 Dev Diary #48 - The Team'\n  Author handle:   'Imse Vimse'\n  Date:            2021-02-16  (raw: 'Feb 16, 2021')\n  Body lines:      218  (2835 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 384\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_048_2021-02-16_dev-diary-48-the-team.md\n  Written:         20,105 bytes"
+  },
+  {
+    "forum_id": "1458798",
+    "wiki_number": 49,
+    "title": "A Cold Embrace",
+    "date": "2021-02-23",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 84333,
+    "extractor_output": ":           'Crusader Kings 3 Dev Diary #49 - A Cold Embrace'\n  Author handle:   'Servancour'\n  Date:            2021-02-23  (raw: 'Feb 23, 2021')\n  Body lines:      242  (3189 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 432\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_049_2021-02-23_crusader-kings-3-dev-diary-49-a-cold-emb.md\n  Written:         24,291 bytes"
+  },
+  {
+    "forum_id": "1460062",
+    "wiki_number": 50,
+    "title": "Poetry to my Ears",
+    "date": "2021-03-02",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 80072,
+    "extractor_output": "itle:           'Crusader Kings 3 Dev Diary #50 - Poetry to my Ears'\n  Author handle:   'Wokeg'\n  Date:            2021-03-02  (raw: 'Mar 2, 2021')\n  Body lines:      156  (1448 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 396\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_050_2021-03-02_crusader-kings-3-dev-diary-50-poetry-to.md\n  Written:         16,153 bytes"
+  },
+  {
+    "forum_id": "1461029",
+    "wiki_number": 51,
+    "title": "It's Time to Duel",
+    "date": "2021-03-09",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1462124",
+    "wiki_number": 52,
+    "title": "1.3 'Corvus' Patch Notes",
+    "date": "2021-03-16",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 89070,
+    "extractor_output": "    'Crusader Kings 3 Dev Diary #52 - 1.3 ‘Corvus’ Patch Notes'\n  Author handle:   'rageair'\n  Date:            2021-03-16  (raw: 'Mar 16, 2021')\n  Body lines:      638  (8629 words)\n  Body images:     10\n  Banner:          no\n  Reactions:       1 entries\n  Signature:       not found\n  Reply boundary:  line 806\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_052_2021-03-16_crusader-kings-3-dev-diary-52-1-3-corvus.md\n  Written:         57,626 bytes"
+  },
+  {
+    "forum_id": "1463785",
+    "wiki_number": 53,
+    "title": "Northern Lords Content Rundown",
+    "date": "2021-03-23",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 88718,
+    "extractor_output": "'Crusader Kings 3 Dev Diary #53 - Northern Lords Content Rundown'\n  Author handle:   'Wokeg'\n  Date:            2021-03-23  (raw: 'Mar 23, 2021')\n  Body lines:      341  (4452 words)\n  Body images:     27\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 620\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_053_2021-03-23_crusader-kings-3-dev-diary-53-northern-l.md\n  Written:         30,889 bytes"
+  },
+  {
+    "forum_id": "1465030",
+    "wiki_number": 54,
+    "title": "A Sound Plan",
+    "date": "2021-03-30",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 83529,
+    "extractor_output": "          'Crusader Kings III Dev Diary #54 - A Sound Plan'\n  Author handle:   'ParadoxGustav'\n  Date:            2021-03-30  (raw: 'Mar 30, 2021')\n  Body lines:      116  (1145 words)\n  Body images:     6\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 386\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_054_2021-03-30_crusader-kings-iii-dev-diary-54-a-sound.md\n  Written:         10,589 bytes"
+  },
+  {
+    "forum_id": "1466888",
+    "wiki_number": 55,
+    "title": "Modding Improvements",
+    "date": "2021-04-13",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1468532",
+    "wiki_number": 56,
+    "title": "An Azure Summer",
+    "date": "2021-04-20",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 84476,
+    "extractor_output": "80942625702.txt ===\n  Title:           'CK3 Dev Diary #56 - An Azure Summer'\n  Author handle:   'rageair'\n  Date:            2021-04-20  (raw: 'Apr 20, 2021')\n  Body lines:      188  (2396 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 399\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_056_2021-04-20_dev-diary-56-an-azure-summer.md\n  Written:         19,382 bytes"
+  },
+  {
+    "forum_id": "1470041",
+    "wiki_number": 57,
+    "title": "An Eventful Summer",
+    "date": "2021-04-27",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 83429,
+    "extractor_output": "2628234.txt ===\n  Title:           'CK3 Dev Diary #57 - An Eventful Summer'\n  Author handle:   'Heptopus'\n  Date:            2021-04-27  (raw: 'Apr 27, 2021')\n  Body lines:      61  (752 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 343\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_057_2021-04-27_dev-diary-57-an-eventful-summer.md\n  Written:         8,043 bytes"
+  },
+  {
+    "forum_id": "1472092",
+    "wiki_number": 58,
+    "title": "Stre(ss)tching the traits",
+    "date": "2021-05-04",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 83218,
+    "extractor_output": "\n  Title:           'CK3 Dev Diary #58 - Stre(ss)tching the traits'\n  Author handle:   'Pdx_Meedoc'\n  Date:            2021-05-04  (raw: 'May 4, 2021')\n  Body lines:      41  (728 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 318\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_058_2021-05-04_dev-diary-58-stre-ss-tching-the-traits.md\n  Written:         8,534 bytes"
+  },
+  {
+    "forum_id": "1473458",
+    "wiki_number": 59,
+    "title": "Fantastic presets and where to save them",
+    "date": "2021-05-11",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 82892,
+    "extractor_output": "v Diary #59 - Fantastic presets and where to save them'\n  Author handle:   'KnightOfTheLions'\n  Date:            2021-05-11  (raw: 'May 11, 2021')\n  Body lines:      188  (2413 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 376\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_059_2021-05-11_dev-diary-59-fantastic-presets-and-where.md\n  Written:         18,865 bytes"
+  },
+  {
+    "forum_id": "1474533",
+    "wiki_number": 60,
+    "title": "The cost of Warfare",
+    "date": "2021-05-18",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 83180,
+    "extractor_output": "429.txt ===\n  Title:           'CK3 Dev Diary #60 - The Cost of Warfare'\n  Author handle:   'Pdx_Meedoc'\n  Date:            2021-05-18  (raw: 'May 18, 2021')\n  Body lines:      64  (664 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 340\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_060_2021-05-18_dev-diary-60-the-cost-of-warfare.md\n  Written:         8,178 bytes"
+  },
+  {
+    "forum_id": "1474818",
+    "wiki_number": null,
+    "title": "The Royal Court - The Vision",
+    "date": "2021-05-21",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83425,
+    "extractor_output": "h-1780942638427.txt ===\n  Title:           'CK3: The Royal Court - The Vision'\n  Author handle:   'rageair'\n  Date:            2021-05-21  (raw: 'May 21, 2021')\n  Body lines:      128  (1939 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       not found\n  Reply boundary:  line 339\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-05-21_the-royal-court-the-vision.md\n  Written:         16,029 bytes"
+  },
+  {
+    "forum_id": "1476067",
+    "wiki_number": 61,
+    "title": "The Royal Court",
+    "date": "2021-05-25",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 86040,
+    "extractor_output": "80942640446.txt ===\n  Title:           'CK3 Dev Diary #61 - The Royal Court'\n  Author handle:   'rageair'\n  Date:            2021-05-25  (raw: 'May 25, 2021')\n  Body lines:      205  (3204 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 408\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_061_2021-05-25_dev-diary-61-the-royal-court.md\n  Written:         22,844 bytes"
+  },
+  {
+    "forum_id": "1477376",
+    "wiki_number": 62,
+    "title": "Monarch's Journey unleashed",
+    "date": "2021-06-01",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 82864,
+    "extractor_output": "e:           'CK3 Dev Diary #62 - Monarch’s Journey unleashed'\n  Author handle:   'Pdx_Meedoc'\n  Date:            2021-06-01  (raw: 'Jun 1, 2021')\n  Body lines:      247  (2303 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 456\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_062_2021-06-01_dev-diary-62-monarch-s-journey-unleashed.md\n  Written:         19,810 bytes"
+  },
+  {
+    "forum_id": "1478364",
+    "wiki_number": 63,
+    "title": "1.4.0 \"Azure\" Patch Notes",
+    "date": "2021-06-08",
+    "expansion": "Northern Lords",
+    "status": "ok",
+    "size_bytes": 86698,
+    "extractor_output": "==\n  Title:           'CK3 Dev Diary #63 - 1.4.0 “Azure” Patch Notes'\n  Author handle:   'pdx_snob'\n  Date:            2021-06-08  (raw: 'Jun 8, 2021')\n  Body lines:      355  (4539 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 628\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_063_2021-06-08_dev-diary-63-1-4-0-azure-patch-notes.md\n  Written:         31,431 bytes"
+  },
+  {
+    "forum_id": "1479565",
+    "wiki_number": 64,
+    "title": "Cultures Are Forever",
+    "date": "2021-06-15",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85536,
+    "extractor_output": "t ===\n  Title:           'CK3 Dev Diary #64 - Cultures Are Forever'\n  Author handle:   'Servancour'\n  Date:            2021-06-15  (raw: 'Jun 15, 2021')\n  Body lines:      308  (3722 words)\n  Body images:     10\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 447\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_064_2021-06-15_dev-diary-64-cultures-are-forever.md\n  Written:         28,037 bytes"
+  },
+  {
+    "forum_id": "1480529",
+    "wiki_number": 65,
+    "title": "One Culture Is Not Enough",
+    "date": "2021-06-22",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 87008,
+    "extractor_output": "tle:           'CK3 Dev Diary #65 - One Culture Is Not Enough'\n  Author handle:   'Servancour'\n  Date:            2021-06-22  (raw: 'Jun 22, 2021')\n  Body lines:      317  (3943 words)\n  Body images:     11\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 458\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_065_2021-06-22_dev-diary-65-one-culture-is-not-enough.md\n  Written:         29,057 bytes"
+  },
+  {
+    "forum_id": "1481298",
+    "wiki_number": 66,
+    "title": "A Fresh Coat of Paint",
+    "date": "2021-06-29",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 82734,
+    "extractor_output": " ===\n  Title:           'CK3 Dev Diary #66 - A Fresh Coat of Paint'\n  Author handle:   'Servancour'\n  Date:            2021-06-29  (raw: 'Jun 29, 2021')\n  Body lines:      206  (2539 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 378\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_066_2021-06-29_dev-diary-66-a-fresh-coat-of-paint.md\n  Written:         19,979 bytes"
+  },
+  {
+    "forum_id": "1482135",
+    "wiki_number": null,
+    "title": "CK3 Summer Teaser #1",
+    "date": "2021-07-06",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 82399,
+    "extractor_output": "= mcp-workspace-web_fetch-1780942655976.txt ===\n  Title:           'CK3 Summer Teaser #1'\n  Author handle:   'Servancour'\n  Date:            2021-07-06  (raw: 'Jul 6, 2021')\n  Body lines:      121  (855 words)\n  Body images:     6\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 331\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-06_summer-teaser-1.md\n  Written:         8,782 bytes"
+  },
+  {
+    "forum_id": "1482137",
+    "wiki_number": null,
+    "title": "CK3 Summer Teaser #2",
+    "date": "2021-07-13",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 82834,
+    "extractor_output": "= mcp-workspace-web_fetch-1780942658090.txt ===\n  Title:           'CK3 Summer Teaser #2'\n  Author handle:   'Servancour'\n  Date:            2021-07-13  (raw: 'Jul 13, 2021')\n  Body lines:      93  (692 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 303\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-13_summer-teaser-2.md\n  Written:         7,429 bytes"
+  },
+  {
+    "forum_id": "1482960",
+    "wiki_number": null,
+    "title": "Anatomy of a Game: Startup and Loading",
+    "date": "2021-07-15",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 88457,
+    "extractor_output": "\n  Title:           'Anatomy of a Game: Startup and Loading'\n  Author handle:   'blackninja9939'\n  Date:            2021-07-15  (raw: 'Jul 15, 2021')\n  Body lines:      261  (4812 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 433\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-15_anatomy-of-a-game-startup-and-loading.md\n  Written:         32,043 bytes"
+  },
+  {
+    "forum_id": "1483461",
+    "wiki_number": null,
+    "title": "CK3 Summer Teaser #3",
+    "date": "2021-07-20",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 82792,
+    "extractor_output": "= mcp-workspace-web_fetch-1780943005070.txt ===\n  Title:           'CK3 Summer Teaser #3'\n  Author handle:   'Servancour'\n  Date:            2021-07-20  (raw: 'Jul 20, 2021')\n  Body lines:      92  (786 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 253\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-20_summer-teaser-3.md\n  Written:         7,996 bytes"
+  },
+  {
+    "forum_id": "1483669",
+    "wiki_number": null,
+    "title": "Anatomy of a Game: Changing the Gamestate",
+    "date": "2021-07-22",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 87544,
+    "extractor_output": "==\n  Title:           'Anatomy of a Game: Changing the Gamestate'\n  Author handle:   'Meneth'\n  Date:            2021-07-22  (raw: 'Jul 22, 2021')\n  Body lines:      223  (4443 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 424\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-22_anatomy-of-a-game-changing-the-gamestate.md\n  Written:         30,554 bytes"
+  },
+  {
+    "forum_id": "1484098",
+    "wiki_number": null,
+    "title": "CK3 Summer Teaser #4",
+    "date": "2021-07-27",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83091,
+    "extractor_output": "= mcp-workspace-web_fetch-1780943010485.txt ===\n  Title:           'CK3 Summer Teaser #4'\n  Author handle:   'Servancour'\n  Date:            2021-07-27  (raw: 'Jul 27, 2021')\n  Body lines:      92  (684 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 317\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-27_summer-teaser-4.md\n  Written:         7,476 bytes"
+  },
+  {
+    "forum_id": "1484301",
+    "wiki_number": null,
+    "title": "Anatomy of a Game: Simulation Optimization",
+    "date": "2021-07-29",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 89438,
+    "extractor_output": ":           'Anatomy of a Game: Simulation Optimization'\n  Author handle:   'blackninja9939'\n  Date:            2021-07-29  (raw: 'Jul 29, 2021')\n  Body lines:      300  (5096 words)\n  Body images:     12\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 487\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-07-29_anatomy-of-a-game-simulation-optimizatio.md\n  Written:         34,694 bytes"
+  },
+  {
+    "forum_id": "1484762",
+    "wiki_number": 67,
+    "title": "A View to a Map",
+    "date": "2021-08-03",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83296,
+    "extractor_output": "943015079.txt ===\n  Title:           'CK3 Dev Diary #67 - A View to a Map'\n  Author handle:   'Servancour'\n  Date:            2021-08-03  (raw: 'Aug 3, 2021')\n  Body lines:      177  (1940 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 389\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_067_2021-08-03_dev-diary-67-a-view-to-a-map.md\n  Written:         15,021 bytes"
+  },
+  {
+    "forum_id": "1484918",
+    "wiki_number": null,
+    "title": "Anatomy of a Game: The Script System",
+    "date": "2021-08-05",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 88973,
+    "extractor_output": "t ===\n  Title:           'Anatomy of a Game: The Script System'\n  Author handle:   'blackninja9939'\n  Date:            2021-08-05  (raw: 'Aug 5, 2021')\n  Body lines:      277  (4790 words)\n  Body images:     9\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 478\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-08-05_anatomy-of-a-game-the-script-system.md\n  Written:         32,231 bytes"
+  },
+  {
+    "forum_id": "1485460",
+    "wiki_number": 68,
+    "title": "Inspiration Never Dies",
+    "date": "2021-08-10",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84394,
+    "extractor_output": "==\n  Title:           'CK3 Dev Diary #68 - Inspiration Never Dies'\n  Author handle:   'Servancour'\n  Date:            2021-08-10  (raw: 'Aug 10, 2021')\n  Body lines:      192  (2262 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 347\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_068_2021-08-10_dev-diary-68-inspiration-never-dies.md\n  Written:         18,712 bytes"
+  },
+  {
+    "forum_id": "1487491",
+    "wiki_number": 69,
+    "title": "Nice, Throne Room Artifacts!",
+    "date": "2021-08-17",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84644,
+    "extractor_output": "46.txt ===\n  Title:           'Dev diary #69 - Nice, Throne Room Artifacts!'\n  Author handle:   'Carlberg'\n  Date:            2021-08-17  (raw: 'Aug 17, 2021')\n  Body lines:      252  (2651 words)\n  Body images:     12\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 458\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_069_2021-08-17_nice-throne-room-artifacts.md\n  Written:         21,183 bytes"
+  },
+  {
+    "forum_id": "1488487",
+    "wiki_number": 70,
+    "title": "The Facts about Artifacts",
+    "date": "2021-08-24",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85711,
+    "extractor_output": "7.txt ===\n  Title:           'Dev Diary #70 - The Facts about Artifacts'\n  Author handle:   'Baron von Shoes'\n  Date:            2021-08-24  (raw: 'Aug 24, 2021')\n  Body lines:      54  (1161 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 309\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_070_2021-08-24_the-facts-about-artifacts.md\n  Written:         10,878 bytes"
+  },
+  {
+    "forum_id": "1489219",
+    "wiki_number": 71,
+    "title": "A Coat of Arms of Your Own",
+    "date": "2021-08-31",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 82674,
+    "extractor_output": ":           'CK3 Dev Diary #71: A Coat of Arms of Your Own'\n  Author handle:   'blackninja9939'\n  Date:            2021-08-31  (raw: 'Aug 31, 2021')\n  Body lines:      84  (1193 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 314\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_071_2021-08-31_dev-diary-71-a-coat-of-arms-of-your-own.md\n  Written:         10,388 bytes"
+  },
+  {
+    "forum_id": "1489882",
+    "wiki_number": 72,
+    "title": "Holding Court at Court in The Royal Court",
+    "date": "2021-09-07",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83688,
+    "extractor_output": "2 - Holding Court at Court in The Royal Court (in a courtly fashion)'\n  Author handle:   'Wokeg'\n  Date:            2021-09-07  (raw: 'Sep 7, 2021')\n  Body lines:      67  (625 words)\n  Body images:     11\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 337\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_072_2021-09-07_crusader-kings-3-dev-diary-72-holding-co.md\n  Written:         7,445 bytes"
+  },
+  {
+    "forum_id": "1490806",
+    "wiki_number": 73,
+    "title": "Serving On Her Majesty's Court",
+    "date": "2021-09-14",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83660,
+    "extractor_output": "          \"CK3 Dev Diary #73 - Serving On Her Majesty's Court\"\n  Author handle:   'Servancour'\n  Date:            2021-09-14  (raw: 'Sep 14, 2021')\n  Body lines:      76  (1074 words)\n  Body images:     8\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 353\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_073_2021-09-14_dev-diary-73-serving-on-her-majesty-s-co.md\n  Written:         10,302 bytes"
+  },
+  {
+    "forum_id": "1491791",
+    "wiki_number": 74,
+    "title": "Please Kaiser, Can I Have Some More?",
+    "date": "2021-09-21",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83358,
+    "extractor_output": "        'CK3 Dev Diary #74 - Please Kaiser, Can I Have Some More?'\n  Author handle:   'PDX_Chop'\n  Date:            2021-09-21  (raw: 'Sep 21, 2021')\n  Body lines:      59  (831 words)\n  Body images:     6\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 324\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_074_2021-09-21_dev-diary-74-please-kaiser-can-i-have-so.md\n  Written:         8,497 bytes"
+  },
+  {
+    "forum_id": "1492792",
+    "wiki_number": 75,
+    "title": "In the Event of Court Events",
+    "date": "2021-09-28",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85561,
+    "extractor_output": "    'Crusader Kings 3 Dev Diary #75 - In the Event of Court Events'\n  Author handle:   'Wokeg'\n  Date:            2021-09-28  (raw: 'Sep 28, 2021')\n  Body lines:      86  (1022 words)\n  Body images:     12\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 303\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_075_2021-09-28_crusader-kings-3-dev-diary-75-in-the-eve.md\n  Written:         9,645 bytes"
+  },
+  {
+    "forum_id": "1493045",
+    "wiki_number": null,
+    "title": "CK3 - Happy First Anniversary!",
+    "date": "2021-09-30",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83362,
+    "extractor_output": "b_fetch-1780943037488.txt ===\n  Title:           'CK3 - Happy First Anniversary!'\n  Author handle:   'PDX_Pariah'\n  Date:            2021-09-30  (raw: 'Sep 30, 2021')\n  Body lines:      64  (693 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 276\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-09-30_happy-first-anniversary.md\n  Written:         7,118 bytes"
+  },
+  {
+    "forum_id": "1493718",
+    "wiki_number": 76,
+    "title": "Royal Audio",
+    "date": "2021-10-05",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 81670,
+    "extractor_output": "tch-1780943039739.txt ===\n  Title:           'CK3 Dev Diary #76 - Royal Audio'\n  Author handle:   'Metal King'\n  Date:            2021-10-05  (raw: 'Oct 5, 2021')\n  Body lines:      100  (1013 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 378\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_076_2021-10-05_dev-diary-76-royal-audio.md\n  Written:         12,001 bytes"
+  },
+  {
+    "forum_id": "1494388",
+    "wiki_number": 77,
+    "title": "Becoming a Polyglot",
+    "date": "2021-10-12",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84680,
+    "extractor_output": "78.txt ===\n  Title:           'CK3 Dev Diary #77 - Becoming a Polyglot'\n  Author handle:   'rageair'\n  Date:            2021-10-12  (raw: 'Oct 12, 2021')\n  Body lines:      138  (1081 words)\n  Body images:     15\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 433\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_077_2021-10-12_dev-diary-77-becoming-a-polyglot.md\n  Written:         11,067 bytes"
+  },
+  {
+    "forum_id": "1495106",
+    "wiki_number": 78,
+    "title": "Taking Language to Court",
+    "date": "2021-10-19",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84545,
+    "extractor_output": "xt ===\n  Title:           'CK3 Dev Diary #78: Taking Language to Court'\n  Author handle:   'Mrop'\n  Date:            2021-10-19  (raw: 'Oct 19, 2021')\n  Body lines:      94  (1223 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 372\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_078_2021-10-19_dev-diary-78-taking-language-to-court.md\n  Written:         10,901 bytes"
+  },
+  {
+    "forum_id": "1495786",
+    "wiki_number": 79,
+    "title": "An Update on Cultures",
+    "date": "2021-10-26",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84314,
+    "extractor_output": "txt ===\n  Title:           'CK3 Dev Diary #79 - An Update on Cultures'\n  Author handle:   'Servancour'\n  Date:            2021-10-26  (raw: 'Oct 26, 2021')\n  Body lines:      43  (948 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 338\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_079_2021-10-26_dev-diary-79-an-update-on-cultures.md\n  Written:         9,499 bytes"
+  },
+  {
+    "forum_id": "1495808",
+    "wiki_number": null,
+    "title": "Timing in Regards to Royal Court",
+    "date": "2021-10-26",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84304,
+    "extractor_output": "0943050652.txt ===\n  Title:           'Timing in Regards to Royal Court'\n  Author handle:   'PDX_Pariah'\n  Date:            2021-10-26  (raw: 'Oct 26, 2021')\n  Body lines:      82  (989 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       not found\n  Reply boundary:  line 300\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-10-26_timing-in-regards-to-royal-court.md\n  Written:         8,889 bytes"
+  },
+  {
+    "forum_id": "1496381",
+    "wiki_number": 80,
+    "title": "Is That a Dagger in Your Pocket",
+    "date": "2021-11-02",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83174,
+    "extractor_output": "         'CK3 Dev Diary #80 - Is That a Dagger in Your Pocket…?'\n  Author handle:   'PDX_Pariah'\n  Date:            2021-11-02  (raw: 'Nov 2, 2021')\n  Body lines:      107  (780 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 343\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_080_2021-11-02_dev-diary-80-is-that-a-dagger-in-your-po.md\n  Written:         8,312 bytes"
+  },
+  {
+    "forum_id": "1496879",
+    "wiki_number": 81,
+    "title": "A tour of your Royal Court (Interface)",
+    "date": "2021-11-09",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83669,
+    "extractor_output": "        'CK3 Dev Diary #81 - A tour of your Royal Court (Interface)'\n  Author handle:   'Mrop'\n  Date:            2021-11-09  (raw: 'Nov 9, 2021')\n  Body lines:      182  (1558 words)\n  Body images:     22\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 461\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_081_2021-11-09_dev-diary-81-a-tour-of-your-royal-court.md\n  Written:         13,163 bytes"
+  },
+  {
+    "forum_id": "1498075",
+    "wiki_number": 82,
+    "title": "Court Type Content",
+    "date": "2021-11-16",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83708,
+    "extractor_output": "9316.txt ===\n  Title:           'CK3 Dev Diary #82 - Court Type Content'\n  Author handle:   'PDX_Pariah'\n  Date:            2021-11-16  (raw: 'Nov 16, 2021')\n  Body lines:      81  (599 words)\n  Body images:     10\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 315\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_082_2021-11-16_dev-diary-82-court-type-content.md\n  Written:         7,239 bytes"
+  },
+  {
+    "forum_id": "1498899",
+    "wiki_number": 83,
+    "title": "Adventurer Inspirations and Other Royal Court News",
+    "date": "2021-11-23",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85233,
+    "extractor_output": "y #83 - Adventurer Inspirations and Other Royal Court News'\n  Author handle:   'Trin Tragula'\n  Date:            2021-11-23  (raw: 'Nov 23, 2021')\n  Body lines:      94  (1378 words)\n  Body images:     11\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 373\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_083_2021-11-23_dev-diary-83-adventurer-inspirations-and.md\n  Written:         11,992 bytes"
+  },
+  {
+    "forum_id": "1500937",
+    "wiki_number": 84,
+    "title": "Building a Court - A Tale of Code and Art",
+    "date": "2021-11-30",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85246,
+    "extractor_output": "'CK3 Dev Diary #84 - Building a Court - A Tale of Code and Art'\n  Author handle:   'Carlberg'\n  Date:            2021-11-30  (raw: 'Nov 30, 2021')\n  Body lines:      239  (2841 words)\n  Body images:     31\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 501\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_084_2021-11-30_dev-diary-84-building-a-court-a-tale-of.md\n  Written:         21,769 bytes"
+  },
+  {
+    "forum_id": "1502286",
+    "wiki_number": null,
+    "title": "CK3 Winter Teaser #1 - Photo mode",
+    "date": "2021-12-07",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83271,
+    "extractor_output": "web_fetch-1780959853372.txt ===\n  Title:           'CK3 Winter Teaser - Photo mode'\n  Author handle:   'Carlberg'\n  Date:            2021-12-07  (raw: 'Dec 7, 2021')\n  Body lines:      48  (406 words)\n  Body images:     6\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 316\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-12-07_winter-teaser-photo-mode.md\n  Written:         6,251 bytes"
+  },
+  {
+    "forum_id": "1503282",
+    "wiki_number": null,
+    "title": "CK3 Winter Teaser #2 - Dynasty Legacy",
+    "date": "2021-12-14",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83954,
+    "extractor_output": "9906764.txt ===\n  Title:           'CK3 Winter Teaser #2 - Dynasty Legacy'\n  Author handle:   'PDX_Pariah'\n  Date:            2021-12-14  (raw: 'Dec 14, 2021')\n  Body lines:      75  (710 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-12-14_winter-teaser-2-dynasty-legacy.md\n  Written:         8,103 bytes"
+  },
+  {
+    "forum_id": "1503317",
+    "wiki_number": null,
+    "title": "CK3 Winter Teaser #3 - Cultural Traditions",
+    "date": "2021-12-21",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84441,
+    "extractor_output": ".txt ===\n  Title:           'Winter Teaser #3 - Cultural Traditions'\n  Author handle:   'Trin Tragula'\n  Date:            2021-12-21  (raw: 'Dec 21, 2021')\n  Body lines:      85  (881 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 294\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-12-21_winter-teaser-3-cultural-traditions.md\n  Written:         9,427 bytes"
+  },
+  {
+    "forum_id": "1504071",
+    "wiki_number": null,
+    "title": "CK3 Winter Teaser #4 - Artifact Weapons",
+    "date": "2021-12-28",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83563,
+    "extractor_output": "0959911476.txt ===\n  Title:           'Winter Teaser #4 - Artifact Weapons'\n  Author handle:   'Carlberg'\n  Date:            2021-12-28  (raw: 'Dec 28, 2021')\n  Body lines:      78  (709 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 332\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2021-12-28_winter-teaser-4-artifact-weapons.md\n  Written:         7,853 bytes"
+  },
+  {
+    "forum_id": "1505616",
+    "wiki_number": null,
+    "title": "CK3 Winter Teaser #5 - Mendicant Mystics Making a Mess",
+    "date": "2022-01-04",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84045,
+    "extractor_output": "  Title:           'Winter Teaser #5 - Mendicant Mystics Making a Mess'\n  Author handle:   'Wokeg'\n  Date:            2022-01-04  (raw: 'Jan 4, 2022')\n  Body lines:      67  (735 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 309\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-01-04_winter-teaser-5-mendicant-mystics-making.md\n  Written:         7,975 bytes"
+  },
+  {
+    "forum_id": "1506337",
+    "wiki_number": 85,
+    "title": "An Artifact's Life",
+    "date": "2022-01-11",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 85075,
+    "extractor_output": "9916341.txt ===\n  Title:           \"CK3 Dev Diary #85 - An Artifact's Life\"\n  Author handle:   'Areysak'\n  Date:            2022-01-11  (raw: 'Jan 11, 2022')\n  Body lines:      78  (856 words)\n  Body images:     14\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 354\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_085_2022-01-11_dev-diary-85-an-artifact-s-life.md\n  Written:         9,031 bytes"
+  },
+  {
+    "forum_id": "1506926",
+    "wiki_number": 86,
+    "title": "Under The Banner",
+    "date": "2022-01-18",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84005,
+    "extractor_output": "80959949635.txt ===\n  Title:           'CK3 Dev Diary #86 - Under the Banner'\n  Author handle:   'PDX_Chop'\n  Date:            2022-01-18  (raw: 'Jan 18, 2022')\n  Body lines:      67  (739 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 344\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_086_2022-01-18_dev-diary-86-under-the-banner.md\n  Written:         8,137 bytes"
+  },
+  {
+    "forum_id": "1507899",
+    "wiki_number": 87,
+    "title": "Royal Modding",
+    "date": "2022-01-25",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 87150,
+    "extractor_output": "959952064.txt ===\n  Title:           'CK3 Dev Diary #87: Royal Modding'\n  Author handle:   'blackninja9939'\n  Date:            2022-01-25  (raw: 'Jan 25, 2022')\n  Body lines:      192  (2198 words)\n  Body images:     8\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 458\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_087_2022-01-25_dev-diary-87-royal-modding.md\n  Written:         16,789 bytes"
+  },
+  {
+    "forum_id": "1508593",
+    "wiki_number": 88,
+    "title": "Achievements",
+    "date": "2022-02-01",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 84077,
+    "extractor_output": "-1780959954147.txt ===\n  Title:           'CK3 Dev Diary #88: Achievements'\n  Author handle:   'Trin Tragula'\n  Date:            2022-02-01  (raw: 'Feb 1, 2022')\n  Body lines:      102  (821 words)\n  Body images:     20\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_088_2022-02-01_dev-diary-88-achievements.md\n  Written:         11,337 bytes"
+  },
+  {
+    "forum_id": "1509587",
+    "wiki_number": 89,
+    "title": "1.5.0 \"Fleur-de-Lis\" Patch Notes",
+    "date": "2022-02-08",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 91712,
+    "extractor_output": "          'CK3 Dev Diary #89: 1.5.0 \"Fleur-de-Lis\" Patch Notes'\n  Author handle:   'rageair'\n  Date:            2022-02-08  (raw: 'Feb 8, 2022')\n  Body lines:      837  (12465 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 1007\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_089_2022-02-08_dev-diary-89-1-5-0-fleur-de-lis-patch-no.md\n  Written:         83,747 bytes"
+  },
+  {
+    "forum_id": "1513522",
+    "wiki_number": 1,
+    "title": "Vision and Goals!",
+    "date": "2022-03-01",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 83955,
+    "extractor_output": "959959440.txt ===\n  Title:           'CK Console DD #1: Vision and Goals!'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-03-01  (raw: 'Mar 1, 2022')\n  Body lines:      50  (752 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 294\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_001_2022-03-01_ck-console-dd-1-vision-and-goals.md\n  Written:         7,780 bytes"
+  },
+  {
+    "forum_id": "1514785",
+    "wiki_number": 90,
+    "title": "The 1.5.1 Update",
+    "date": "2022-03-10",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 86341,
+    "extractor_output": "959986509.txt ===\n  Title:           'CK3 Dev Diary #90: The 1.5.1 Update'\n  Author handle:   'rageair'\n  Date:            2022-03-10  (raw: 'Mar 10, 2022')\n  Body lines:      429  (4657 words)\n  Body images:     39\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 705\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_090_2022-03-10_dev-diary-90-the-1-5-1-update.md\n  Written:         35,380 bytes"
+  },
+  {
+    "forum_id": "1515647",
+    "wiki_number": 2,
+    "title": "Discovery in the Crusader Kings Experience",
+    "date": "2022-03-15",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 84362,
+    "extractor_output": "   'CK Console DD #2: Discovery in the Crusader Kings Experience'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-03-15  (raw: 'Mar 15, 2022')\n  Body lines:      35  (834 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 232\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_002_2022-03-15_ck-console-dd-2-discovery-in-the-crusade.md\n  Written:         8,305 bytes"
+  },
+  {
+    "forum_id": "1516699",
+    "wiki_number": 3,
+    "title": "UI/UX and Controls",
+    "date": "2022-03-22",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 86124,
+    "extractor_output": "959991452.txt ===\n  Title:           'Console DD #3: UI/UX and Controls'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-03-22  (raw: 'Mar 22, 2022')\n  Body lines:      89  (1144 words)\n  Body images:     9\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 327\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_003_2022-03-22_console-dd-3-ui-ux-and-controls.md\n  Written:         10,902 bytes"
+  },
+  {
+    "forum_id": "1516821",
+    "wiki_number": 91,
+    "title": "Update 1.5.1.1",
+    "date": "2022-03-22",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 83409,
+    "extractor_output": "-1780959993696.txt ===\n  Title:           'CK3 Dev Diary #91: Update 1.5.1.1'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-03-22  (raw: 'Mar 22, 2022')\n  Body lines:      49  (514 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 321\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_091_2022-03-22_dev-diary-91-update-1-5-1-1.md\n  Written:         6,943 bytes"
+  },
+  {
+    "forum_id": "1517990",
+    "wiki_number": 4,
+    "title": "Tech Optimization & PS Exclusive Features",
+    "date": "2022-03-29",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 85475,
+    "extractor_output": "   'CK Console DD #4: Tech Optimization & PS Exclusive Features'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-03-29  (raw: 'Mar 29, 2022')\n  Body lines:      52  (1088 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 258\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_004_2022-03-29_ck-console-dd-4-tech-optimization-ps-exc.md\n  Written:         9,978 bytes"
+  },
+  {
+    "forum_id": "1518991",
+    "wiki_number": 92,
+    "title": "Anatomy of a Game: From Report to Resolution",
+    "date": "2022-04-05",
+    "expansion": "Royal Court",
+    "status": "ok",
+    "size_bytes": 87460,
+    "extractor_output": "K3 Dev Diary #92: Anatomy of a Game: From Report to Resolution'\n  Author handle:   'jakeowaty'\n  Date:            2022-04-05  (raw: 'Apr 5, 2022')\n  Body lines:      211  (2942 words)\n  Body images:     12\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 443\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_092_2022-04-05_dev-diary-92-anatomy-of-a-game-from-repo.md\n  Written:         20,068 bytes"
+  },
+  {
+    "forum_id": "1521199",
+    "wiki_number": 93,
+    "title": "Turmoil in the Peninsula",
+    "date": "2022-04-19",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 83474,
+    "extractor_output": "=\n  Title:           'CK3 Dev Diary #93 - Turmoil in the Peninsula'\n  Author handle:   'Pdx_Meedoc'\n  Date:            2022-04-19  (raw: 'Apr 19, 2022')\n  Body lines:      49  (650 words)\n  Body images:     5\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 264\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_093_2022-04-19_dev-diary-93-turmoil-in-the-peninsula.md\n  Written:         7,576 bytes"
+  },
+  {
+    "forum_id": "1522094",
+    "wiki_number": null,
+    "title": "CK3 - Console Minor Update",
+    "date": "2022-04-26",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1522115",
+    "wiki_number": 94,
+    "title": "Anatomy of a Struggle",
+    "date": "2022-04-26",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 88243,
+    "extractor_output": "          'Crusader Kings 3 Dev Diary #94 - Anatomy of a Struggle'\n  Author handle:   'Wokeg'\n  Date:            2022-04-26  (raw: 'Apr 26, 2022')\n  Body lines:      326  (5141 words)\n  Body images:     6\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 532\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_094_2022-04-26_crusader-kings-3-dev-diary-94-anatomy-of.md\n  Written:         36,990 bytes"
+  },
+  {
+    "forum_id": "1522983",
+    "wiki_number": 95,
+    "title": "Flavor of Iberia",
+    "date": "2022-05-03",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 86638,
+    "extractor_output": "         'Crusader Kings 3 Dev Diary #95 - Flavor of Iberia'\n  Author handle:   'Hugo Cortell'\n  Date:            2022-05-03  (raw: 'May 3, 2022')\n  Body lines:      152  (2930 words)\n  Body images:     20\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 423\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_095_2022-05-03_crusader-kings-3-dev-diary-95-flavor-of.md\n  Written:         23,197 bytes"
+  },
+  {
+    "forum_id": "1524239",
+    "wiki_number": 96,
+    "title": "Fate of Iberia 3D Art Showcase",
+    "date": "2022-05-10",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 85159,
+    "extractor_output": "usader Kings 3 Dev Diary #96 - Fate of Iberia 3D Art Showcase'\n  Author handle:   'egghorse'\n  Date:            2022-05-10  (raw: 'May 10, 2022')\n  Body lines:      294  (3363 words)\n  Body images:     37\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 562\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_096_2022-05-10_crusader-kings-3-dev-diary-96-fate-of-ib.md\n  Written:         25,389 bytes"
+  },
+  {
+    "forum_id": "1525790",
+    "wiki_number": null,
+    "title": "CK3 - Console Update 4",
+    "date": "2022-05-16",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1524206",
+    "wiki_number": 97,
+    "title": "Event Illustration Showcase and Workflow",
+    "date": "2022-05-17",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 86918,
+    "extractor_output": "CK3 Dev Diary #97: Event Illustration Showcase and Workflow'\n  Author handle:   'PDX-plundh'\n  Date:            2022-05-17  (raw: 'May 17, 2022')\n  Body lines:      433  (3956 words)\n  Body images:     68\n  Banner:          yes\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 697\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_097_2022-05-17_dev-diary-97-event-illustration-showcase.md\n  Written:         29,638 bytes"
+  },
+  {
+    "forum_id": "1527558",
+    "wiki_number": 98,
+    "title": "the Castle's foundation",
+    "date": "2022-05-24",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 85213,
+    "extractor_output": "\n  Title:           \"CK3 Dev Diary #98: the Castle's foundation\"\n  Author handle:   'Pdx_Meedoc'\n  Date:            2022-05-24  (raw: 'May 24, 2022')\n  Body lines:      167  (2250 words)\n  Body images:     14\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 441\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_098_2022-05-24_dev-diary-98-the-castle-s-foundation.md\n  Written:         17,536 bytes"
+  },
+  {
+    "forum_id": "1528613",
+    "wiki_number": 99,
+    "title": "It is time to decide the Fate of Iberia",
+    "date": "2022-05-31",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 84654,
+    "extractor_output": "   'CK3 Dev Diary #99: It is time to decide the Fate of Iberia'\n  Author handle:   'pdx_snob'\n  Date:            2022-05-31  (raw: 'May 31, 2022')\n  Body lines:      265  (2724 words)\n  Body images:     3\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 488\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_099_2022-05-31_dev-diary-99-it-is-time-to-decide-the-fa.md\n  Written:         21,568 bytes"
+  },
+  {
+    "forum_id": "1530040",
+    "wiki_number": 100,
+    "title": "A Royal Journey",
+    "date": "2022-06-07",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 83022,
+    "extractor_output": "-1780960099773.txt ===\n  Title:           'CK3 Dev Diary #100: A Royal Journey'\n  Author handle:   'rageair'\n  Date:            2022-06-07  (raw: 'Jun 7, 2022')\n  Body lines:      43  (515 words)\n  Body images:     6\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 318\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_100_2022-06-07_dev-diary-100-a-royal-journey.md\n  Written:         6,671 bytes"
+  },
+  {
+    "forum_id": "1530285",
+    "wiki_number": null,
+    "title": "CK3 - PC Update 1.6.0.1",
+    "date": "2022-06-09",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 82431,
+    "extractor_output": "orkspace-web_fetch-1780960101985.txt ===\n  Title:           'CK3 - PC Update 1.6.0.1'\n  Author handle:   'NicouLenny'\n  Date:            2022-06-09  (raw: 'Jun 9, 2022')\n  Body lines:      123  (1562 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 283\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-06-09_pc-update-1-6-0-1.md\n  Written:         13,637 bytes"
+  },
+  {
+    "forum_id": "1531127",
+    "wiki_number": 101,
+    "title": "The CK3 Beta Program",
+    "date": "2022-06-14",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 84290,
+    "extractor_output": ".txt ===\n  Title:           'CK3 Dev Diary #101: The CK3 Beta Program'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-06-14  (raw: 'Jun 14, 2022')\n  Body lines:      26  (475 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 296\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_101_2022-06-14_dev-diary-101-the-ck3-beta-program.md\n  Written:         6,311 bytes"
+  },
+  {
+    "forum_id": "1531246",
+    "wiki_number": null,
+    "title": "CK3 - Console Update 5",
+    "date": "2022-06-15",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 54318,
+    "extractor_output": "workspace-web_fetch-1780960106738.txt ===\n  Title:           'CK3 - Console Update 5'\n  Author handle:   'NicouLenny'\n  Date:            2022-06-15  (raw: 'Jun 15, 2022')\n  Body lines:      116  (1386 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       1 entries\n  Signature:       not found\n  Reply boundary:  line 270\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-06-15_console-update-5.md\n  Written:         12,734 bytes"
+  },
+  {
+    "forum_id": "1532585",
+    "wiki_number": 102,
+    "title": "Stabilizing the Iberian peninsula",
+    "date": "2022-06-21",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 84754,
+    "extractor_output": " #102: Stabilizing the Iberian peninsula [1.6.1 patch notes]'\n  Author handle:   'Pdx_Meedoc'\n  Date:            2022-06-21  (raw: 'Jun 21, 2022')\n  Body lines:      153  (1552 words)\n  Body images:     1\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 400\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_102_2022-06-21_dev-diary-102-stabilizing-the-iberian-pe.md\n  Written:         13,482 bytes"
+  },
+  {
+    "forum_id": "1533555",
+    "wiki_number": 103,
+    "title": "Summer Break",
+    "date": "2022-06-28",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 83761,
+    "extractor_output": "fetch-1780960111402.txt ===\n  Title:           'CK3 Dev Diary #103: Summer Break'\n  Author handle:   'rageair'\n  Date:            2022-06-28  (raw: 'Jun 28, 2022')\n  Body lines:      35  (953 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 311\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_103_2022-06-28_dev-diary-103-summer-break.md\n  Written:         9,029 bytes"
+  },
+  {
+    "forum_id": "1533653",
+    "wiki_number": null,
+    "title": "CK3 - Console Update 5.1",
+    "date": "2022-06-29",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 166385,
+    "extractor_output": "eb_fetch-1780960113825.txt ===\n  Title:           'CK3 - Console Update 5.1'\n  Author handle:   'MossyShieldMaiden'\n  Date:            2022-06-29  (raw: 'Jun 29, 2022')\n  Body lines:      145  (2118 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 311\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-06-29_console-update-5-1.md\n  Written:         58,742 bytes"
+  },
+  {
+    "forum_id": "1533657",
+    "wiki_number": null,
+    "title": "CK3 - PC Update 1.6.1.2",
+    "date": "2022-06-29",
+    "expansion": "Fate of Iberia",
+    "status": "ok",
+    "size_bytes": 82134,
+    "extractor_output": "kspace-web_fetch-1780960116077.txt ===\n  Title:           'CK3 - PC Update 1.6.1.2'\n  Author handle:   'PDX-Trinexx'\n  Date:            2022-06-29  (raw: 'Jun 29, 2022')\n  Body lines:      126  (1680 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       not found\n  Reply boundary:  line 303\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-06-29_pc-update-1-6-1-2.md\n  Written:         14,730 bytes"
+  },
+  {
+    "forum_id": "1536982",
+    "wiki_number": null,
+    "title": "CK3 - Console Update 5.2",
+    "date": "2022-07-27",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 69698,
+    "extractor_output": "pace-web_fetch-1780960118357.txt ===\n  Title:           'CK3 - Console Update 5.2'\n  Author handle:   'PDX-Trinexx'\n  Date:            2022-07-27  (raw: 'Jul 27, 2022')\n  Body lines:      121  (1605 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 284\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-07-27_console-update-5-2.md\n  Written:         14,273 bytes"
+  },
+  {
+    "forum_id": "1537785",
+    "wiki_number": null,
+    "title": "Let's Talk: Populist Factions",
+    "date": "2022-08-04",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 86118,
+    "extractor_output": "h-1780960121674.txt ===\n  Title:           \"Let's Talk: Populist Factions\"\n  Author handle:   'Servancour'\n  Date:            2022-08-04  (raw: 'Aug 4, 2022')\n  Body lines:      118  (1713 words)\n  Body images:     4\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       not found\n  Reply boundary:  line 313\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-08-04_let-s-talk-populist-factions.md\n  Written:         13,477 bytes"
+  },
+  {
+    "forum_id": "1539411",
+    "wiki_number": 104,
+    "title": "AI AI AI",
+    "date": "2022-08-23",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 87667,
+    "extractor_output": "web_fetch-1780960147402.txt ===\n  Title:           'CK3 Dev Diary #104: AI AI AI'\n  Author handle:   'rageair'\n  Date:            2022-08-23  (raw: 'Aug 23, 2022')\n  Body lines:      253  (3978 words)\n  Body images:     17\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 491\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_104_2022-08-23_dev-diary-104-ai-ai-ai.md\n  Written:         27,770 bytes"
+  },
+  {
+    "forum_id": "1540182",
+    "wiki_number": 105,
+    "title": "1.7 \"Bastion\" Update",
+    "date": "2022-08-30",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 84487,
+    "extractor_output": "e:           'Development Diary #105: 1.7 \"Bastion\" Update'\n  Author handle:   'Trin Tragula'\n  Date:            2022-08-30  (raw: 'Aug 30, 2022')\n  Body lines:      308  (2435 words)\n  Body images:     14\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 516\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_105_2022-08-30_development-diary-105-1-7-bastion-update.md\n  Written:         19,172 bytes"
+  },
+  {
+    "forum_id": "1540343",
+    "wiki_number": null,
+    "title": "CK3 - Console Update 6",
+    "date": "2022-08-31",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 74595,
+    "extractor_output": "workspace-web_fetch-1780960153018.txt ===\n  Title:           'CK3 - Console Update 6'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-08-31  (raw: 'Aug 31, 2022')\n  Body lines:      112  (1329 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 272\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-08-31_console-update-6.md\n  Written:         10,724 bytes"
+  },
+  {
+    "forum_id": "1540926",
+    "wiki_number": 106,
+    "title": "A Fistful Of Friends & Foes",
+    "date": "2022-09-06",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 84588,
+    "extractor_output": "5307.txt ===\n  Title:           'DD #106: A Fistful Of Friends & Foes'\n  Author handle:   'PDS_Noodle'\n  Date:            2022-09-06  (raw: 'Sep 6, 2022')\n  Body lines:      256  (3446 words)\n  Body images:     26\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 452\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_106_2022-09-06_dd-106-a-fistful-of-friends-foes.md\n  Written:         23,684 bytes"
+  },
+  {
+    "forum_id": "1541141",
+    "wiki_number": 107,
+    "title": "1.7.0 \"Bastion\" Update Notes",
+    "date": "2022-09-08",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 89514,
+    "extractor_output": "           'Development Diary #107: 1.7.0 \"Bastion\" Update Notes'\n  Author handle:   'sidestep'\n  Date:            2022-09-08  (raw: 'Sep 8, 2022')\n  Body lines:      407  (6117 words)\n  Body images:     3\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 614\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_107_2022-09-08_development-diary-107-1-7-0-bastion-upda.md\n  Written:         42,059 bytes"
+  },
+  {
+    "forum_id": "1541873",
+    "wiki_number": null,
+    "title": "Minor Update - Post 1.7",
+    "date": "2022-09-12",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 83957,
+    "extractor_output": "ce-web_fetch-1780960160225.txt ===\n  Title:           'CK3 Minor Update - Post 1.7'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-09-12  (raw: 'Sep 12, 2022')\n  Body lines:      53  (600 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 266\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-09-12_minor-update-post-1-7.md\n  Written:         6,367 bytes"
+  },
+  {
+    "forum_id": "1542092",
+    "wiki_number": null,
+    "title": "DD Delay",
+    "date": "2022-09-13",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 82904,
+    "extractor_output": "1780960162629.txt ===\n  Title:           'CK3 - DD Delay - September 13, 2022'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-09-13  (raw: 'Sep 13, 2022')\n  Body lines:      47  (508 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 206\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-09-13_dd-delay-september-13-2022.md\n  Written:         5,869 bytes"
+  },
+  {
+    "forum_id": "1542515",
+    "wiki_number": null,
+    "title": "Update 1.7.1 - Release",
+    "date": "2022-09-15",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 83183,
+    "extractor_output": "-web_fetch-1780960164922.txt ===\n  Title:           'CK3 - Update 1.7.1 - Release'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-09-15  (raw: 'Sep 15, 2022')\n  Body lines:      114  (1122 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       3 entries\n  Signature:       not found\n  Reply boundary:  line 309\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-09-15_update-1-7-1-release.md\n  Written:         9,592 bytes"
+  },
+  {
+    "forum_id": "1543480",
+    "wiki_number": 108,
+    "title": "Dev Diary Scheduling & Community Activities",
+    "date": "2022-09-20",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 86036,
+    "extractor_output": "      'Dev Diary #108: Dev Diary Scheduling & Community Activities'\n  Author handle:   'rageair'\n  Date:            2022-09-20  (raw: 'Sep 20, 2022')\n  Body lines:      33  (751 words)\n  Body images:     0\n  Banner:          yes\n  Reactions:       3 entries\n  Signature:       detected\n  Reply boundary:  line 284\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_108_2022-09-20_dev-diary-scheduling-community-activitie.md\n  Written:         7,836 bytes"
+  },
+  {
+    "forum_id": "1545392",
+    "wiki_number": null,
+    "title": "Update 1.7.2 - Release",
+    "date": "2022-09-29",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 82466,
+    "extractor_output": "\n  Title:           'CK3 - Update 1.7.2 - Release. Checksum [ba42]'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-09-29  (raw: 'Sep 29, 2022')\n  Body lines:      210  (2232 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       1 entries\n  Signature:       not found\n  Reply boundary:  line 360\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-09-29_update-1-7-2-release-checksum-ba42.md\n  Written:         18,679 bytes"
+  },
+  {
+    "forum_id": "1546534",
+    "wiki_number": 109,
+    "title": "Floor Plan for the Future",
+    "date": "2022-10-04",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 86825,
+    "extractor_output": "960195689.txt ===\n  Title:           'Dev Diary #109 - Floor Plan for the Future'\n  Author handle:   'rageair'\n  Date:            2022-10-04  (raw: 'Oct 4, 2022')\n  Body lines:      99  (3460 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 379\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_109_2022-10-04_floor-plan-for-the-future.md\n  Written:         22,934 bytes"
+  },
+  {
+    "forum_id": "1550055",
+    "wiki_number": 110,
+    "title": "A Study in Black",
+    "date": "2022-10-25",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 84556,
+    "extractor_output": "-web_fetch-1780960198043.txt ===\n  Title:           'Dev Diary #110 - A Study in Black'\n  Author handle:   'Fogbound'\n  Date:            2022-10-25  (raw: 'Oct 25, 2022')\n  Body lines:      212  (2648 words)\n  Body images:     5\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 418\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_110_2022-10-25_a-study-in-black.md\n  Written:         20,239 bytes"
+  },
+  {
+    "forum_id": "1556674",
+    "wiki_number": 5,
+    "title": "Free Update/Ruler Designer",
+    "date": "2022-11-15",
+    "expansion": "Console Edition",
+    "status": "ok",
+    "size_bytes": 59624,
+    "extractor_output": "  Title:           'CK3 Console DD - Free Update/Ruler Designer'\n  Author handle:   'PDX_Pariah'\n  Date:            2022-11-15  (raw: 'Nov 15, 2022')\n  Body lines:      126  (1737 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 282\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_005_2022-11-15_console-dd-free-update-ruler-designer.md\n  Written:         13,483 bytes"
+  },
+  {
+    "forum_id": "1546936",
+    "wiki_number": 111,
+    "title": "1.8.0 \"Robe\" Feature Highlight",
+    "date": "2022-11-22",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 87193,
+    "extractor_output": "er Kings 3 Dev Diary #111 - 1.8.0 “Robe” Feature Highlight'\n  Author handle:   'Hugo Cortell'\n  Date:            2022-11-22  (raw: 'Nov 22, 2022')\n  Body lines:      98  (2048 words)\n  Body images:     15\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 363\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_111_2022-11-22_crusader-kings-3-dev-diary-111-1-8-0-rob.md\n  Written:         20,567 bytes"
+  },
+  {
+    "forum_id": "1560180",
+    "wiki_number": null,
+    "title": "CK3 - \"Robe\" 1.8.0 Release & Changelog",
+    "date": "2022-12-01",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 84596,
+    "extractor_output": "80960205183.txt ===\n  Title:           'CK3 - \"Robe\" 1.8.0 Release & Changelog'\n  Author handle:   'pdxhr'\n  Date:            2022-12-01  (raw: 'Dec 1, 2022')\n  Body lines:      327  (3481 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       1 entries\n  Signature:       not found\n  Reply boundary:  line 535\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-12-01_robe-1-8-0-release-changelog.md\n  Written:         26,861 bytes"
+  },
+  {
+    "forum_id": "1561106",
+    "wiki_number": 112,
+    "title": "Year in Review",
+    "date": "2022-12-06",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 84914,
+    "extractor_output": "rkspace-web_fetch-1780960208100.txt ===\n  Title:           'Dev Diary #112 - Year in Review'\n  Author handle:   'rageair'\n  Date:            2022-12-06  (raw: 'Dec 6, 2022')\n  Body lines:      58  (1174 words)\n  Body images:     5\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 338\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_112_2022-12-06_year-in-review.md\n  Written:         10,614 bytes"
+  },
+  {
+    "forum_id": "1561920",
+    "wiki_number": null,
+    "title": "CK3 - PC Update 1.8.1 - Release",
+    "date": "2022-12-13",
+    "expansion": "Friends and Foes",
+    "status": "ok",
+    "size_bytes": 82358,
+    "extractor_output": "e-web_fetch-1780960210555.txt ===\n  Title:           'CK3 - PC Update 1.8.1 - Release'\n  Author handle:   'pdxhr'\n  Date:            2022-12-13  (raw: 'Dec 13, 2022')\n  Body lines:      74  (745 words)\n  Body images:     0\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       not found\n  Reply boundary:  line 244\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2022-12-13_pc-update-1-8-1-release.md\n  Written:         7,299 bytes"
+  },
+  {
+    "forum_id": "1565308",
+    "wiki_number": 113,
+    "title": "Community Choice Event Pack",
+    "date": "2023-01-17",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 84184,
+    "extractor_output": "213407.txt ===\n  Title:           'Dev Diary #113 - Community Choice Event Pack'\n  Author handle:   'rageair'\n  Date:            2023-01-17  (raw: 'Jan 17, 2023')\n  Body lines:      33  (709 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 313\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_113_2023-01-17_community-choice-event-pack.md\n  Written:         7,682 bytes"
+  },
+  {
+    "forum_id": "1566109",
+    "wiki_number": 114,
+    "title": "And the Winner is...",
+    "date": "2023-01-27",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 82242,
+    "extractor_output": "e-web_fetch-1780960216037.txt ===\n  Title:           'Dev Diary #114 - And the Winner is…'\n  Author handle:   'rageair'\n  Date:            2023-01-27  (raw: 'Jan 27, 2023')\n  Body lines:      22  (304 words)\n  Body images:     1\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 283\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_114_2023-01-27_and-the-winner-is.md\n  Written:         5,339 bytes"
+  },
+  {
+    "forum_id": "1567601",
+    "wiki_number": 115,
+    "title": "Monumental Foundations",
+    "date": "2023-02-07",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 85170,
+    "extractor_output": "780960219046.txt ===\n  Title:           'Dev Diary #115 - Monumental Foundations'\n  Author handle:   'Carlberg'\n  Date:            2023-02-07  (raw: 'Feb 7, 2023')\n  Body lines:      111  (1189 words)\n  Body images:     12\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 384\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_115_2023-02-07_monumental-foundations.md\n  Written:         11,098 bytes"
+  },
+  {
+    "forum_id": "1569914",
+    "wiki_number": 116,
+    "title": "Agrarian Research Techniques",
+    "date": "2023-02-21",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 83812,
+    "extractor_output": "245133.txt ===\n  Title:           'Dev Diary #116 - Agrarian Research Techniques'\n  Author handle:   'Wokeg'\n  Date:            2023-02-21  (raw: 'Feb 21, 2023')\n  Body lines:      57  (301 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 330\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_116_2023-02-21_agrarian-research-techniques.md\n  Written:         5,665 bytes"
+  },
+  {
+    "forum_id": "1571227",
+    "wiki_number": 117,
+    "title": "Shave and a Map Mode",
+    "date": "2023-02-28",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 83334,
+    "extractor_output": "tch-1780960247445.txt ===\n  Title:           'Dev Diary #117 - Shave and a Map Mode'\n  Author handle:   'PDX Jens'\n  Date:            2023-02-28  (raw: 'Feb 28, 2023')\n  Body lines:      90  (1198 words)\n  Body images:     8\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 369\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_117_2023-02-28_shave-and-a-map-mode.md\n  Written:         10,672 bytes"
+  },
+  {
+    "forum_id": "1572201",
+    "wiki_number": 118,
+    "title": "The Vision",
+    "date": "2023-03-06",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 84181,
+    "extractor_output": "49864.txt ===\n  Title:           'CK3: Tours and Tournaments - The Vision'\n  Author handle:   'rageair'\n  Date:            2023-03-06  (raw: 'Mar 6, 2023')\n  Body lines:      59  (1168 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 325\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_118_2023-03-06_tours-and-tournaments-the-vision.md\n  Written:         10,738 bytes"
+  },
+  {
+    "forum_id": "1573700",
+    "wiki_number": 119,
+    "title": "Tours and Travel",
+    "date": "2023-03-14",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 86987,
+    "extractor_output": "e-web_fetch-1780960252864.txt ===\n  Title:           'Dev Diary #119 - Tours and Travel'\n  Author handle:   'Meka66'\n  Date:            2023-03-14  (raw: 'Mar 14, 2023')\n  Body lines:      300  (3209 words)\n  Body images:     31\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 551\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_119_2023-03-14_tours-and-travel.md\n  Written:         24,018 bytes"
+  },
+  {
+    "forum_id": "1575051",
+    "wiki_number": 120,
+    "title": "Systemic Refinements",
+    "date": "2023-03-21",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 88746,
+    "extractor_output": "ch-1780960255283.txt ===\n  Title:           'Dev Diary #120 - Systemic Refinements'\n  Author handle:   'rageair'\n  Date:            2023-03-21  (raw: 'Mar 21, 2023')\n  Body lines:      557  (6278 words)\n  Body images:     45\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 837\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_120_2023-03-21_systemic-refinements.md\n  Written:         43,043 bytes"
+  },
+  {
+    "forum_id": "1576149",
+    "wiki_number": 121,
+    "title": "An Active Life",
+    "date": "2023-03-28",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 89002,
+    "extractor_output": "b_fetch-1780960257899.txt ===\n  Title:           'Dev Diary #121 – An Active Life'\n  Author handle:   'blackninja9939'\n  Date:            2023-03-28  (raw: 'Mar 28, 2023')\n  Body lines:      476  (6164 words)\n  Body images:     41\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 757\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_121_2023-03-28_an-active-life.md\n  Written:         40,335 bytes"
+  },
+  {
+    "forum_id": "1576961",
+    "wiki_number": 122,
+    "title": "Regencies and Elegance of the Empire",
+    "date": "2023-04-04",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 90214,
+    "extractor_output": "Dev Diary #122: Regencies and Elegance of the Empire'\n  Author handle:   'Paradoksalny Kierownik'\n  Date:            2023-04-04  (raw: 'Apr 4, 2023')\n  Body lines:      732  (8324 words)\n  Body images:     71\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 993\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_122_2023-04-04_regencies-and-elegance-of-the-empire.md\n  Written:         55,739 bytes"
+  },
+  {
+    "forum_id": "1577736",
+    "wiki_number": 123,
+    "title": "Hastiluding for Glory",
+    "date": "2023-04-11",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 89614,
+    "extractor_output": "xt ===\n  Title:           'Dev Diary #123 – Hastiluding for Glory'\n  Author handle:   'Paradoksalny Kierownik'\n  Date:            2023-04-11  (raw: 'Apr 11, 2023')\n  Body lines:      767  (8513 words)\n  Body images:     73\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 1046\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_123_2023-04-11_hastiluding-for-glory.md\n  Written:         58,503 bytes"
+  },
+  {
+    "forum_id": "1578426",
+    "wiki_number": 124,
+    "title": "Celebrate Good Times (Come On)",
+    "date": "2023-04-18",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 89069,
+    "extractor_output": "           'Dev Diary #124 - Celebrate Good Times (Come On)'\n  Author handle:   'Paradoksalny Kierownik'\n  Date:            2023-04-18  (raw: 'Apr 18, 2023')\n  Body lines:      649  (6956 words)\n  Body images:     81\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 892\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_124_2023-04-18_celebrate-good-times-come-on.md\n  Written:         46,520 bytes"
+  },
+  {
+    "forum_id": "1579721",
+    "wiki_number": 125,
+    "title": "The Most Valiant of Them All",
+    "date": "2023-04-25",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 85754,
+    "extractor_output": " ===\n  Title:           'Dev Diary #125 – The Most Valiant of Them All'\n  Author handle:   'PDX-Trinexx'\n  Date:            2023-04-25  (raw: 'Apr 25, 2023')\n  Body lines:      319  (3048 words)\n  Body images:     27\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 597\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_125_2023-04-25_the-most-valiant-of-them-all.md\n  Written:         23,069 bytes"
+  },
+  {
+    "forum_id": "1580680",
+    "wiki_number": 126,
+    "title": "Modding Activities",
+    "date": "2023-05-02",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 87791,
+    "extractor_output": "-1780960295617.txt ===\n  Title:           'Dev Diary #126 - Modding Activities'\n  Author handle:   'blackninja9939'\n  Date:            2023-05-02  (raw: 'May 2, 2023')\n  Body lines:      276  (2853 words)\n  Body images:     14\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 532\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_126_2023-05-02_modding-activities.md\n  Written:         21,804 bytes"
+  },
+  {
+    "forum_id": "1582655",
+    "wiki_number": 127,
+    "title": "Joust Art and Achievements",
+    "date": "2023-05-09",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 89260,
+    "extractor_output": "7816.txt ===\n  Title:           'Dev Diary #127 – Joust Art & Achievements'\n  Author handle:   'Portable Grump'\n  Date:            2023-05-09  (raw: 'May 9, 2023')\n  Body lines:      477  (5354 words)\n  Body images:     56\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 750\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_127_2023-05-09_joust-art-achievements.md\n  Written:         37,118 bytes"
+  },
+  {
+    "forum_id": "1583293",
+    "wiki_number": 128,
+    "title": "1.9.0 'Lance' Update",
+    "date": "2023-05-11",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 91639,
+    "extractor_output": "80960300332.txt ===\n  Title:           'Dev Diary #128 – CK3 1.9.0 ‘Lance’ Update'\n  Author handle:   'rageair'\n  Date:            2023-05-11  (raw: 'May 11, 2023')\n  Body lines:      627  (9630 words)\n  Body images:     1\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 915\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_128_2023-05-11_ck3-1-9-0-lance-update.md\n  Written:         66,367 bytes"
+  },
+  {
+    "forum_id": "1586430",
+    "wiki_number": 129,
+    "title": "Post Release Update",
+    "date": "2023-05-23",
+    "expansion": "Tours and Tournaments",
+    "status": "ok",
+    "size_bytes": 87136,
+    "extractor_output": "           'Dev Diary #129 – Post Release Update Extra Content'\n  Author handle:   'Portable Grump'\n  Date:            2023-05-23  (raw: 'May 23, 2023')\n  Body lines:      188  (2582 words)\n  Body images:     17\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 463\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_129_2023-05-23_post-release-update-extra-content.md\n  Written:         19,197 bytes"
+  },
+  {
+    "forum_id": "1590033",
+    "wiki_number": 130,
+    "title": "The Vision",
+    "date": "2023-06-15",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 84991,
+    "extractor_output": "e:           'Dev Diary #130 – Wards and Wardens - The Vision'\n  Author handle:   'Paradoksalny Kierownik'\n  Date:            2023-06-15  (raw: 'Jun 15, 2023')\n  Body lines:      80  (1294 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 347\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_130_2023-06-15_wards-and-wardens-the-vision.md\n  Written:         11,309 bytes"
+  },
+  {
+    "forum_id": "1590985",
+    "wiki_number": 131,
+    "title": "CKIII University",
+    "date": "2023-06-20",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 84950,
+    "extractor_output": "960308103.txt ===\n  Title:           'Dev Diary #131 – CKIII University 101'\n  Author handle:   'Portable Grump'\n  Date:            2023-06-20  (raw: 'Jun 20, 2023')\n  Body lines:      138  (1490 words)\n  Body images:     13\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 391\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_131_2023-06-20_ckiii-university-101.md\n  Written:         13,068 bytes"
+  },
+  {
+    "forum_id": "1595139",
+    "wiki_number": 132,
+    "title": "Eccentricity & Adoption",
+    "date": "2023-08-01",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 85488,
+    "extractor_output": "-1780960312581.txt ===\n  Title:           'Dev Diary #132 – Eccentricity & Adoption'\n  Author handle:   'Meka66'\n  Date:            2023-08-01  (raw: 'Aug 1, 2023')\n  Body lines:      107  (1104 words)\n  Body images:     13\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 340\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_132_2023-08-01_eccentricity-adoption.md\n  Written:         10,098 bytes"
+  },
+  {
+    "forum_id": "1595724",
+    "wiki_number": 133,
+    "title": "Wet Nurses",
+    "date": "2023-08-08",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 84608,
+    "extractor_output": "= mcp-workspace-web_fetch-1780960316194.txt ===\n  Title:           'Dev Diary #133 - Wet Nurses'\n  Author handle:   'PDS_Arky'\n  Date:            2023-08-08  (raw: 'Aug 8, 2023')\n  Body lines:      90  (953 words)\n  Body images:     10\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 348\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_133_2023-08-08_wet-nurses.md\n  Written:         9,367 bytes"
+  },
+  {
+    "forum_id": "1596291",
+    "wiki_number": 134,
+    "title": "The Art of Wards & Wardens",
+    "date": "2023-08-15",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 84092,
+    "extractor_output": "48823.txt ===\n  Title:           'Dev Diary #134 – The Art of Wards & Wardens'\n  Author handle:   'PDX-Trinexx'\n  Date:            2023-08-15  (raw: 'Aug 15, 2023')\n  Body lines:      97  (892 words)\n  Body images:     14\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 365\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_134_2023-08-15_the-art-of-wards-wardens.md\n  Written:         8,986 bytes"
+  },
+  {
+    "forum_id": "1596226",
+    "wiki_number": 135,
+    "title": "Wards & Wardens Now Available!",
+    "date": "2023-08-22",
+    "expansion": "Wards and Wardens",
+    "status": "ok",
+    "size_bytes": 85314,
+    "extractor_output": "'Wards & Wardens and 1.10.0 \"Quill\" Free Update - Now Available!'\n  Author handle:   'rageair'\n  Date:            2023-08-22  (raw: 'Aug 22, 2023')\n  Body lines:      211  (2651 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 443\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_135_2023-08-22_wards-wardens-and-1-10-0-quill-free-upda.md\n  Written:         20,314 bytes"
+  },
+  {
+    "forum_id": "1601384",
+    "wiki_number": 136,
+    "title": "Our Vision for Persia",
+    "date": "2023-10-11",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 85390,
+    "extractor_output": "h-1780960351537.txt ===\n  Title:           'Dev Diary #136 - Our Vision for Persia'\n  Author handle:   'rageair'\n  Date:            2023-10-11  (raw: 'Oct 11, 2023')\n  Body lines:      105  (1752 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 379\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_136_2023-10-11_our-vision-for-persia.md\n  Written:         14,518 bytes"
+  },
+  {
+    "forum_id": "1602548",
+    "wiki_number": 137,
+    "title": "Machinations of a Clan",
+    "date": "2023-10-17",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 85567,
+    "extractor_output": "960354297.txt ===\n  Title:           'Dev Diary #137 - Machinations of a Clan'\n  Author handle:   'Servancour'\n  Date:            2023-10-17  (raw: 'Oct 17, 2023')\n  Body lines:      129  (2022 words)\n  Body images:     17\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 387\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_137_2023-10-17_machinations-of-a-clan.md\n  Written:         15,780 bytes"
+  },
+  {
+    "forum_id": "1603428",
+    "wiki_number": 138,
+    "title": "Persian Delights",
+    "date": "2023-10-24",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 86072,
+    "extractor_output": "fetch-1780960356833.txt ===\n  Title:           'Dev Diary #138 - Persian Delights'\n  Author handle:   'Trin Tragula'\n  Date:            2023-10-24  (raw: 'Oct 24, 2023')\n  Body lines:      113  (2163 words)\n  Body images:     13\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 385\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_138_2023-10-24_persian-delights.md\n  Written:         16,849 bytes"
+  },
+  {
+    "forum_id": "1605823",
+    "wiki_number": 139,
+    "title": "The Art of Legacy of Persia",
+    "date": "2023-10-31",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 85267,
+    "extractor_output": "547.txt ===\n  Title:           'Dev Diary #139 - The Art of Legacy of Persia'\n  Author handle:   'Gertax'\n  Date:            2023-10-31  (raw: 'Oct 31, 2023')\n  Body lines:      188  (2319 words)\n  Body images:     20\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 422\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_139_2023-10-31_the-art-of-legacy-of-persia.md\n  Written:         17,746 bytes"
+  },
+  {
+    "forum_id": "1606790",
+    "wiki_number": 140,
+    "title": "Legacy of Persia & 1.11 'Peacock' Free Update",
+    "date": "2023-11-09",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 87649,
+    "extractor_output": "Diary #140 - Legacy of Persia & 1.11 'Peacock' Free Update\"\n  Author handle:   'Trin Tragula'\n  Date:            2023-11-09  (raw: 'Nov 9, 2023')\n  Body lines:      320  (3587 words)\n  Body images:     10\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 595\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_140_2023-11-09_legacy-of-persia-1-11-peacock-free-updat.md\n  Written:         27,596 bytes"
+  },
+  {
+    "forum_id": "1616623",
+    "wiki_number": 141,
+    "title": "A Year in Review",
+    "date": "2023-12-12",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 86589,
+    "extractor_output": "e-web_fetch-1780960365081.txt ===\n  Title:           'Dev Diary #141 – A Year in Review'\n  Author handle:   'rageair'\n  Date:            2023-12-12  (raw: 'Dec 12, 2023')\n  Body lines:      130  (2345 words)\n  Body images:     4\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 384\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_141_2023-12-12_a-year-in-review.md\n  Written:         17,083 bytes"
+  },
+  {
+    "forum_id": "1621511",
+    "wiki_number": 142,
+    "title": "Vision and Art",
+    "date": "2024-01-16",
+    "expansion": "Legacy of Persia",
+    "status": "ok",
+    "size_bytes": 85538,
+    "extractor_output": "ce-web_fetch-1780940885768.txt ===\n  Title:           'Dev Diary #142 - Vision and Art'\n  Author handle:   'El Tyranos'\n  Date:            2024-01-16  (raw: 'Jan 16, 2024')\n  Body lines:      102  (1668 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 373\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_142_2024-01-16_vision-and-art.md\n  Written:         13,975 bytes"
+  },
+  {
+    "forum_id": "1623007",
+    "wiki_number": 143,
+    "title": "The Next Chapter",
+    "date": "2024-02-07",
+    "expansion": "Legends of the Dead",
+    "status": "ok",
+    "size_bytes": 85346,
+    "extractor_output": "pace-web_fetch-1780960367498.txt ===\n  Title:           'Dev Diary #143 - The Next Chapter'\n  Author handle:   'rageair'\n  Date:            2024-02-02  (raw: 'Feb 2, 2024')\n  Body lines:      67  (1038 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 352\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_143_2024-02-02_the-next-chapter.md\n  Written:         9,827 bytes"
+  },
+  {
+    "forum_id": "1624034",
+    "wiki_number": 144,
+    "title": "Legends and Lesions",
+    "date": "2024-02-13",
+    "expansion": "Legends of the Dead",
+    "status": "ok",
+    "size_bytes": 84555,
+    "extractor_output": "ch-1780960369949.txt ===\n  Title:           'Dev Diary #144 - Legends and Lesions'\n  Author handle:   'PDX-Trinexx'\n  Date:            2024-02-12  (raw: 'Feb 12, 2024')\n  Body lines:      71  (1078 words)\n  Body images:     7\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 336\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_144_2024-02-12_legends-and-lesions.md\n  Written:         10,082 bytes"
+  },
+  {
+    "forum_id": "1624620",
+    "wiki_number": 145,
+    "title": "Legends and Legitimacy",
+    "date": "2024-02-20",
+    "expansion": "Legends of the Dead",
+    "status": "ok",
+    "size_bytes": 87875,
+    "extractor_output": "-1780960373290.txt ===\n  Title:           'Dev Diary #145 - Legends & Legitimacy'\n  Author handle:   'PDX-Trinexx'\n  Date:            2024-02-19  (raw: 'Feb 19, 2024')\n  Body lines:      300  (3966 words)\n  Body images:     31\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 521\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_145_2024-02-19_legends-legitimacy.md\n  Written:         27,665 bytes"
+  },
+  {
+    "forum_id": "1625227",
+    "wiki_number": 146,
+    "title": "It Started With a Cough...",
+    "date": "2024-02-27",
+    "expansion": "Legends of the Dead",
+    "status": "ok",
+    "size_bytes": 84560,
+    "extractor_output": ".txt ===\n  Title:           'Dev Diary #146 - It Started With a Cough...'\n  Author handle:   'blackninja9939'\n  Date:            2024-02-27  (raw: 'Feb 27, 2024')\n  Body lines:      287  (2628 words)\n  Body images:     34\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 506\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_146_2024-02-27_it-started-with-a-cough.md\n  Written:         19,578 bytes"
+  },
+  {
+    "forum_id": "1673686",
+    "wiki_number": 147,
+    "title": "Some Words from the Game Director",
+    "date": "2024-04-30",
+    "expansion": "Legends of the Dead",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1687086",
+    "wiki_number": 148,
+    "title": "Administrative Government (Part I)",
+    "date": "2024-06-11",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 95072,
+    "extractor_output": "tle:           'Dev Diary #148 - Administrative Government (Part I)'\n  Author handle:   'Servancour'\n  Date:            2024-06-10  (raw: 'Jun 10, 2024')\n  Body lines:      323  (5314 words)\n  Body images:     25\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 605\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_148_2024-06-10_administrative-government-part-i.md\n  Written:         35,367 bytes"
+  },
+  {
+    "forum_id": "1688808",
+    "wiki_number": 149,
+    "title": "Administrative Government (Part II)",
+    "date": "2024-06-18",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 92391,
+    "extractor_output": "e:           'Dev Diary #149 - Administrative Government (Part II)'\n  Author handle:   'Servancour'\n  Date:            2024-06-17  (raw: 'Jun 17, 2024')\n  Body lines:      348  (5971 words)\n  Body images:     28\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 624\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_149_2024-06-17_administrative-government-part-ii.md\n  Written:         39,528 bytes"
+  },
+  {
+    "forum_id": "1691073",
+    "wiki_number": 150,
+    "title": "New Start Date, Message Settings, and More",
+    "date": "2024-06-25",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 87839,
+    "extractor_output": "'Dev Diary #150 - New Start Date, Message Settings, and More'\n  Author handle:   'Cordelion'\n  Date:            2024-06-24  (raw: 'Jun 24, 2024')\n  Body lines:      212  (3900 words)\n  Body images:     16\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 491\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_150_2024-06-24_new-start-date-message-settings-and-more.md\n  Written:         27,275 bytes"
+  },
+  {
+    "forum_id": "1697815",
+    "wiki_number": 151,
+    "title": "Landless Adventurers (Part I)",
+    "date": "2024-08-06",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 98380,
+    "extractor_output": "79.txt ===\n  Title:           'Dev Diary #151 - Landless Adventurers (Part I)'\n  Author handle:   'Wokeg'\n  Date:            2024-08-02  (raw: 'Aug 2, 2024')\n  Body lines:      763  (9065 words)\n  Body images:     72\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 1049\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_151_2024-08-02_landless-adventurers-part-i.md\n  Written:         57,948 bytes"
+  },
+  {
+    "forum_id": "1698728",
+    "wiki_number": 152,
+    "title": "Landless Adventurers (Part II)",
+    "date": "2024-08-13",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1699607",
+    "wiki_number": 153,
+    "title": "Byzantine Flavor",
+    "date": "2024-08-20",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 90820,
+    "extractor_output": "eb_fetch-1780960442098.txt ===\n  Title:           'Dev Diary #153 - Byzantine Flavor'\n  Author handle:   'chaddling'\n  Date:            2024-08-16  (raw: 'Aug 16, 2024')\n  Body lines:      522  (5283 words)\n  Body images:     36\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 808\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_153_2024-08-16_byzantine-flavor.md\n  Written:         36,341 bytes"
+  },
+  {
+    "forum_id": "1700890",
+    "wiki_number": 154,
+    "title": "Art & Music of Roads to Power",
+    "date": "2024-08-27",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 87377,
+    "extractor_output": "3.txt ===\n  Title:           'Dev Diary #154 - Art & Music of Roads to Power'\n  Author handle:   'Gertax'\n  Date:            2024-08-26  (raw: 'Aug 26, 2024')\n  Body lines:      422  (4204 words)\n  Body images:     50\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 714\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_154_2024-08-26_art-music-of-roads-to-power.md\n  Written:         29,710 bytes"
+  },
+  {
+    "forum_id": "1701999",
+    "wiki_number": 155,
+    "title": "The Shattered Empire",
+    "date": "2024-09-03",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 87130,
+    "extractor_output": "1781010682841.txt ===\n  Title:           'Dev Diary #155 - The Shattered Empire'\n  Author handle:   'PDX-Trinexx'\n  Date:            2024-09-03  (raw: 'Sep 3, 2024')\n  Body lines:      524  (4534 words)\n  Body images:     47\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 757\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_155_2024-09-03_the-shattered-empire.md\n  Written:         31,784 bytes"
+  },
+  {
+    "forum_id": "1702728",
+    "wiki_number": 156,
+    "title": "Modding & Achievements",
+    "date": "2024-09-10",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1703863",
+    "wiki_number": 157,
+    "title": "Schemes & Stories",
+    "date": "2024-09-17",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 87951,
+    "extractor_output": "ce-web_fetch-1781010687783.txt ===\n  Title:           'Dev Diary #157 - Schemes & Stories'\n  Author handle:   'Wokeg'\n  Date:            2024-09-16  (raw: 'Sep 16, 2024')\n  Body lines:      241  (3412 words)\n  Body images:     16\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 515\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_157_2024-09-16_schemes-stories.md\n  Written:         23,828 bytes"
+  },
+  {
+    "forum_id": "1705102",
+    "wiki_number": null,
+    "title": "Roads to Power & Free 1.13.0 \"Basileus\" Update",
+    "date": "2024-09-24",
+    "expansion": "Roads to Power",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1710648",
+    "wiki_number": 158,
+    "title": "Wandering Nobles",
+    "date": "2024-10-22",
+    "expansion": "Wandering Nobles",
+    "status": "ok",
+    "size_bytes": 86108,
+    "extractor_output": "_fetch-1781010691883.txt ===\n  Title:           'Dev Diary #158 - Wandering Nobles'\n  Author handle:   'Snow Crystal'\n  Date:            2024-10-18  (raw: 'Oct 18, 2024')\n  Body lines:      80  (1154 words)\n  Body images:     10\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 358\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_158_2024-10-18_wandering-nobles.md\n  Written:         10,279 bytes"
+  },
+  {
+    "forum_id": "1710659",
+    "wiki_number": 159,
+    "title": "Active Living",
+    "date": "2024-10-29",
+    "expansion": "Wandering Nobles",
+    "status": "ok",
+    "size_bytes": 89100,
+    "extractor_output": "e-web_fetch-1781010723679.txt ===\n  Title:           'Dev Diary #159 - Active Living'\n  Author handle:   'Snow Crystal'\n  Date:            2024-10-18  (raw: 'Oct 18, 2024')\n  Body lines:      547  (5496 words)\n  Body images:     66\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 785\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_159_2024-10-18_active-living.md\n  Written:         36,333 bytes"
+  },
+  {
+    "forum_id": "1712944",
+    "wiki_number": null,
+    "title": "Wandering Nobles & Free 1.14.0 \"Traverse\" Update",
+    "date": "2024-11-04",
+    "expansion": "Wandering Nobles",
+    "status": "ok",
+    "size_bytes": 84621,
+    "extractor_output": "Now Available: Wandering Nobles & Free 1.14.0 \"Traverse\" Update'\n  Author handle:   'PDX_Pelly'\n  Date:            2024-11-04  (raw: 'Nov 4, 2024')\n  Body lines:      128  (1203 words)\n  Body images:     1\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 372\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_xxx_2024-11-04_now-available-wandering-nobles-free-1-14.md\n  Written:         11,275 bytes"
+  },
+  {
+    "forum_id": "1717586",
+    "wiki_number": 160,
+    "title": "Vision and Art",
+    "date": "2024-11-26",
+    "expansion": "Wandering Nobles",
+    "status": "ok",
+    "size_bytes": 85258,
+    "extractor_output": "ace-web_fetch-1781010675564.txt ===\n  Title:           'Dev Diary #160 - Vision and Art'\n  Author handle:   'El Tyranos'\n  Date:            2024-11-25  (raw: 'Nov 25, 2024')\n  Body lines:      91  (1174 words)\n  Body images:     9\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 358\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_160_2024-11-25_vision-and-art.md\n  Written:         10,754 bytes"
+  },
+  {
+    "forum_id": "1720433",
+    "wiki_number": 161,
+    "title": "2024 in Review",
+    "date": "2024-12-17",
+    "expansion": "Wandering Nobles",
+    "status": "ok",
+    "size_bytes": 88623,
+    "extractor_output": "space-web_fetch-1781010678063.txt ===\n  Title:           'Dev Diary #161 - 2024 in Review'\n  Author handle:   'rageair'\n  Date:            2024-12-11  (raw: 'Dec 11, 2024')\n  Body lines:      122  (2929 words)\n  Body images:     2\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 355\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_161_2024-12-11_2024-in-review.md\n  Written:         20,454 bytes"
+  },
+  {
+    "forum_id": "1728107",
+    "wiki_number": 162,
+    "title": "Steppe by Steppe",
+    "date": "2025-02-11",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 85840,
+    "extractor_output": "e-web_fetch-1781010680269.txt ===\n  Title:           'Dev Diary #162 - Steppe by Steppe'\n  Author handle:   'hattusa'\n  Date:            2025-02-06  (raw: 'Feb 6, 2025')\n  Body lines:      240  (2927 words)\n  Body images:     15\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 525\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_162_2025-02-06_steppe-by-steppe.md\n  Written:         21,394 bytes"
+  },
+  {
+    "forum_id": "1728108",
+    "wiki_number": 163,
+    "title": "Medieval Monuments & Arctic Attire",
+    "date": "2025-02-18",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 89482,
+    "extractor_output": "tle:           'Dev Diary #163 - Medieval Monuments & Arctic Attire'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-02-06  (raw: 'Feb 6, 2025')\n  Body lines:      245  (2939 words)\n  Body images:     29\n  Banner:          yes\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 518\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_163_2025-02-06_medieval-monuments-arctic-attire.md\n  Written:         21,776 bytes"
+  },
+  {
+    "forum_id": "1730576",
+    "wiki_number": 164,
+    "title": "Realm Maintenance",
+    "date": "2025-03-11",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 97852,
+    "extractor_output": "_fetch-1781010732600.txt ===\n  Title:           'Dev Diary #164 - Realm Maintenance'\n  Author handle:   'rageair'\n  Date:            2025-03-06  (raw: 'Mar 6, 2025')\n  Body lines:      1011  (13729 words)\n  Body images:     38\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 1239\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_164_2025-03-06_realm-maintenance.md\n  Written:         90,135 bytes"
+  },
+  {
+    "forum_id": "1731866",
+    "wiki_number": 165,
+    "title": "Tributaries & Confederations",
+    "date": "2025-03-18",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 94665,
+    "extractor_output": "390.txt ===\n  Title:           'Dev Diary #165 - Tributaries & Confederations'\n  Author handle:   'lachek'\n  Date:            2025-03-17  (raw: 'Mar 17, 2025')\n  Body lines:      283  (4146 words)\n  Body images:     32\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 562\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_165_2025-03-17_tributaries-confederations.md\n  Written:         28,837 bytes"
+  },
+  {
+    "forum_id": "1733004",
+    "wiki_number": 166,
+    "title": "On the Move",
+    "date": "2025-03-25",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 87182,
+    "extractor_output": "-workspace-web_fetch-1781010737861.txt ===\n  Title:           'Dev Diary #166 - On the Move'\n  Author handle:   'hattusa'\n  Date:            2025-03-25  (raw: 'Mar 25, 2025')\n  Body lines:      354  (3554 words)\n  Body images:     34\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 633\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_166_2025-03-25_on-the-move.md\n  Written:         26,298 bytes"
+  },
+  {
+    "forum_id": "1733816",
+    "wiki_number": 167,
+    "title": "The Greatest of Them All",
+    "date": "2025-04-01",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 87782,
+    "extractor_output": "0894.txt ===\n  Title:           'Dev Diary #167 - The Greatest of Them All'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-03-31  (raw: 'Mar 31, 2025')\n  Body lines:      659  (6303 words)\n  Body images:     85\n  Banner:          yes\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 956\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_167_2025-03-31_the-greatest-of-them-all.md\n  Written:         43,907 bytes"
+  },
+  {
+    "forum_id": "1734805",
+    "wiki_number": 168,
+    "title": "Code of Khans",
+    "date": "2025-04-08",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 89967,
+    "extractor_output": "ace-web_fetch-1781010743538.txt ===\n  Title:           'Dev Diary #168 - Code of Khans'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-04-08  (raw: 'Apr 8, 2025')\n  Body lines:      314  (3860 words)\n  Body images:     30\n  Banner:          yes\n  Reactions:       4 entries\n  Signature:       detected\n  Reply boundary:  line 536\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_168_2025-04-08_code-of-khans.md\n  Written:         28,594 bytes"
+  },
+  {
+    "forum_id": "1735434",
+    "wiki_number": 169,
+    "title": "Echoes of the Steppe",
+    "date": "2025-04-15",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 84137,
+    "extractor_output": "1781010745884.txt ===\n  Title:           'Dev Diary #169 - Echoes of the Steppe'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-04-14  (raw: 'Apr 14, 2025')\n  Body lines:      242  (2122 words)\n  Body images:     35\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 516\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_169_2025-04-14_echoes-of-the-steppe.md\n  Written:         16,982 bytes"
+  },
+  {
+    "forum_id": "1736680",
+    "wiki_number": 170,
+    "title": "Changelog & Achievements",
+    "date": "2025-04-22",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 90181,
+    "extractor_output": "0748186.txt ===\n  Title:           'Dev Diary #170 - Changelog & Achievements'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-04-22  (raw: 'Apr 22, 2025')\n  Body lines:      454  (4006 words)\n  Body images:     10\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 690\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_170_2025-04-22_changelog-achievements.md\n  Written:         30,830 bytes"
+  },
+  {
+    "forum_id": "1755412",
+    "wiki_number": 171,
+    "title": "Post-Release Support",
+    "date": "2025-05-20",
+    "expansion": "Khans of the Steppe",
+    "status": "ok",
+    "size_bytes": 89617,
+    "extractor_output": "1781010773620.txt ===\n  Title:           'Dev Diary #171 - Post-Release Support'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-05-20  (raw: 'May 20, 2025')\n  Body lines:      150  (3219 words)\n  Body images:     11\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 420\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_171_2025-05-20_post-release-support.md\n  Written:         22,280 bytes"
+  },
+  {
+    "forum_id": "1756319",
+    "wiki_number": 172,
+    "title": "The Full Medieval World",
+    "date": "2025-05-27",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 88049,
+    "extractor_output": "0775789.txt ===\n  Title:           'Dev Diary #172 - The Full Medieval World'\n  Author handle:   'Trin Tragula'\n  Date:            2025-05-21  (raw: 'May 21, 2025')\n  Body lines:      201  (4155 words)\n  Body images:     9\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 474\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_172_2025-05-21_the-full-medieval-world.md\n  Written:         28,142 bytes"
+  },
+  {
+    "forum_id": "1763581",
+    "wiki_number": 173,
+    "title": "The Map of China",
+    "date": "2025-06-03",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 88094,
+    "extractor_output": "e-web_fetch-1781010778387.txt ===\n  Title:           'Dev Diary #173 - The Map of China'\n  Author handle:   'Cordelion'\n  Date:            2025-06-02  (raw: 'Jun 2, 2025')\n  Body lines:      138  (3367 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 412\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_173_2025-06-02_the-map-of-china.md\n  Written:         22,953 bytes"
+  },
+  {
+    "forum_id": "1772951",
+    "wiki_number": 174,
+    "title": "The Mechanics of China",
+    "date": "2025-06-10",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 92224,
+    "extractor_output": "ch-1781010780858.txt ===\n  Title:           'Dev Diary #174 - The Mechanics of China'\n  Author handle:   'Joror'\n  Date:            2025-06-09  (raw: 'Jun 9, 2025')\n  Body lines:      563  (6953 words)\n  Body images:     34\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 842\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_174_2025-06-09_the-mechanics-of-china.md\n  Written:         47,400 bytes"
+  },
+  {
+    "forum_id": "1779028",
+    "wiki_number": 175,
+    "title": "Ritsuryō, Sōryō, Meritocratic",
+    "date": "2025-06-17",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 87322,
+    "extractor_output": "17.txt ===\n  Title:           'Dev Diary #175 - Ritsuryō, Sōryō, Meritocratic'\n  Author handle:   'PDX_Chop'\n  Date:            2025-06-13  (raw: 'Jun 13, 2025')\n  Body lines:      246  (3654 words)\n  Body images:     20\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 518\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_175_2025-06-13_ritsury-s-ry-meritocratic.md\n  Written:         26,871 bytes"
+  },
+  {
+    "forum_id": "1802991",
+    "wiki_number": 176,
+    "title": "Southeast Asia",
+    "date": "2025-06-24",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 90035,
+    "extractor_output": "e-web_fetch-1781010786788.txt ===\n  Title:           'Dev Diary #176 - Southeast Asia'\n  Author handle:   'Distantaziq'\n  Date:            2025-06-23  (raw: 'Jun 23, 2025')\n  Body lines:      402  (5533 words)\n  Body images:     27\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 673\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_176_2025-06-23_southeast-asia.md\n  Written:         38,058 bytes"
+  },
+  {
+    "forum_id": "1854817",
+    "wiki_number": 177,
+    "title": "A Fresh Coat of Paint",
+    "date": "2025-08-12",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 85171,
+    "extractor_output": "781010789197.txt ===\n  Title:           'Dev Diary #177 - A Fresh Coat of Paint'\n  Author handle:   'PDX-plundh'\n  Date:            2025-08-11  (raw: 'Aug 11, 2025')\n  Body lines:      243  (2212 words)\n  Body images:     36\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 506\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_177_2025-08-11_a-fresh-coat-of-paint.md\n  Written:         17,409 bytes"
+  },
+  {
+    "forum_id": "1855069",
+    "wiki_number": 178,
+    "title": "A Vision in Gold",
+    "date": "2025-08-14",
+    "expansion": "Coronations",
+    "status": "ok",
+    "size_bytes": 85358,
+    "extractor_output": "web_fetch-1781010791580.txt ===\n  Title:           'Dev Diary #178 - A Vision in Gold'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-08-13  (raw: 'Aug 13, 2025')\n  Body lines:      99  (1533 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 348\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_178_2025-08-13_a-vision-in-gold.md\n  Written:         12,656 bytes"
+  },
+  {
+    "forum_id": "1855760",
+    "wiki_number": 179,
+    "title": "A Little Bit of Everything",
+    "date": "2025-08-19",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 88208,
+    "extractor_output": "4.txt ===\n  Title:           'Dev Diary #179 - A Little Bit of Everything'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-08-18  (raw: 'Aug 18, 2025')\n  Body lines:      308  (3268 words)\n  Body images:     27\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 550\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_179_2025-08-18_a-little-bit-of-everything.md\n  Written:         23,710 bytes"
+  },
+  {
+    "forum_id": "1856175",
+    "wiki_number": 180,
+    "title": "How a Crown is Earned",
+    "date": "2025-08-21",
+    "expansion": "Coronations",
+    "status": "ok",
+    "size_bytes": 86675,
+    "extractor_output": "81010796309.txt ===\n  Title:           'Dev Diary #180 - How a Crown is Earned'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-08-21  (raw: 'Aug 21, 2025')\n  Body lines:      273  (2915 words)\n  Body images:     36\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 501\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_180_2025-08-21_how-a-crown-is-earned.md\n  Written:         21,567 bytes"
+  },
+  {
+    "forum_id": "1856829",
+    "wiki_number": 181,
+    "title": "Natural Disasters",
+    "date": "2025-08-26",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 87699,
+    "extractor_output": "-web_fetch-1781010823016.txt ===\n  Title:           'Dev Diary #181 - Natural Disasters'\n  Author handle:   'lachek'\n  Date:            2025-08-25  (raw: 'Aug 25, 2025')\n  Body lines:      136  (2752 words)\n  Body images:     14\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 403\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_181_2025-08-25_natural-disasters.md\n  Written:         19,776 bytes"
+  },
+  {
+    "forum_id": "1857719",
+    "wiki_number": 182,
+    "title": "Black Forge Jam 2024",
+    "date": "2025-09-02",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1857935",
+    "wiki_number": 183,
+    "title": "Coronations Art & Changelog",
+    "date": "2025-09-04",
+    "expansion": "Coronations",
+    "status": "ok",
+    "size_bytes": 85545,
+    "extractor_output": "828009.txt ===\n  Title:           'Dev Diary #183 - Coronations Art & Changelog'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-09-04  (raw: 'Sep 4, 2025')\n  Body lines:      96  (944 words)\n  Body images:     2\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 344\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_183_2025-09-04_coronations-art-changelog.md\n  Written:         9,644 bytes"
+  },
+  {
+    "forum_id": "1860087",
+    "wiki_number": 184,
+    "title": "The Silk Road",
+    "date": "2025-09-26",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 86530,
+    "extractor_output": "kspace-web_fetch-1781010830416.txt ===\n  Title:           'Dev Diary #184 - The Silk Road'\n  Author handle:   'PDX_Chop'\n  Date:            2025-09-24  (raw: 'Sep 24, 2025')\n  Body lines:      174  (2147 words)\n  Body images:     16\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 424\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_184_2025-09-24_the-silk-road.md\n  Written:         16,356 bytes"
+  },
+  {
+    "forum_id": "1861099",
+    "wiki_number": 185,
+    "title": "Playing in China, Japan, and Angkor",
+    "date": "2025-10-02",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 98491,
+    "extractor_output": "         'Dev Diary #185 - Playing in China, Japan, and Angkor'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-09-30  (raw: 'Sep 30, 2025')\n  Body lines:      1098  (11950 words)\n  Body images:     138\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 1370\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_185_2025-09-30_playing-in-china-japan-and-angkor.md\n  Written:         77,559 bytes"
+  },
+  {
+    "forum_id": "1861436",
+    "wiki_number": 186,
+    "title": "Character Art of All Under Heaven",
+    "date": "2025-10-07",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 85339,
+    "extractor_output": "Title:           'Dev Diary #186 - Character Art of All Under Heaven'\n  Author handle:   'akash garg'\n  Date:            2025-10-02  (raw: 'Oct 2, 2025')\n  Body lines:      289  (2255 words)\n  Body images:     33\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 577\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_186_2025-10-02_character-art-of-all-under-heaven.md\n  Written:         18,335 bytes"
+  },
+  {
+    "forum_id": "1861437",
+    "wiki_number": 187,
+    "title": "Performance & Optimization",
+    "date": "2025-10-15",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 94217,
+    "extractor_output": "010837516.txt ===\n  Title:           'Dev Diary #187 - Performance & Optimization'\n  Author handle:   'Divine'\n  Date:            2025-10-02  (raw: 'Oct 2, 2025')\n  Body lines:      291  (6341 words)\n  Body images:     10\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 569\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_187_2025-10-02_performance-optimization.md\n  Written:         41,158 bytes"
+  },
+  {
+    "forum_id": "1863996",
+    "wiki_number": 188,
+    "title": "Art, Music, Modding, Achievements",
+    "date": "2025-10-22",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 91041,
+    "extractor_output": "Title:           'Dev Diary #188 - Art, Music, Modding, Achievements'\n  Author handle:   'PDX-Trinexx'\n  Date:            2025-10-22  (raw: 'Oct 22, 2025')\n  Body lines:      792  (8100 words)\n  Body images:     90\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 1024\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_188_2025-10-22_art-music-modding-achievements.md\n  Written:         54,545 bytes"
+  },
+  {
+    "forum_id": "1866461",
+    "wiki_number": 189,
+    "title": "Post-Release Support",
+    "date": "2025-11-03",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 86167,
+    "extractor_output": "etch-1781010842440.txt ===\n  Title:           'Dev Diary #189 - Post-Release Support'\n  Author handle:   'rageair'\n  Date:            2025-11-03  (raw: 'Nov 3, 2025')\n  Body lines:      173  (1618 words)\n  Body images:     16\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 424\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_189_2025-11-03_post-release-support.md\n  Written:         13,252 bytes"
+  },
+  {
+    "forum_id": "1882481",
+    "wiki_number": 190,
+    "title": "1.18.2 Preview",
+    "date": "2025-11-28",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 86085,
+    "extractor_output": "pace-web_fetch-1781010844840.txt ===\n  Title:           'Dev Diary #190 - 1.18.2 Preview'\n  Author handle:   'egghorse'\n  Date:            2025-11-28  (raw: 'Nov 28, 2025')\n  Body lines:      262  (2717 words)\n  Body images:     8\n  Banner:          no\n  Reactions:       2 entries\n  Signature:       not found\n  Reply boundary:  line 446\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_190_2025-11-28_1-18-2-preview.md\n  Written:         19,507 bytes"
+  },
+  {
+    "forum_id": "1888979",
+    "wiki_number": 191,
+    "title": "2025 in Review",
+    "date": "2025-12-16",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 86510,
+    "extractor_output": "space-web_fetch-1781010873726.txt ===\n  Title:           'Dev Diary #191 - 2025 in Review'\n  Author handle:   'rageair'\n  Date:            2025-12-15  (raw: 'Dec 15, 2025')\n  Body lines:      167  (3374 words)\n  Body images:     15\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 444\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_191_2025-12-15_2025-in-review.md\n  Written:         22,708 bytes"
+  },
+  {
+    "forum_id": "1902372",
+    "wiki_number": 192,
+    "title": "Spring Cleaning",
+    "date": "2026-02-17",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 87142,
+    "extractor_output": "e-web_fetch-1781010875977.txt ===\n  Title:           'Dev Diary #192 - Spring Cleaning'\n  Author handle:   'Arakrates'\n  Date:            2026-02-16  (raw: 'Feb 16, 2026')\n  Body lines:      271  (3143 words)\n  Body images:     12\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 545\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_192_2026-02-16_spring-cleaning.md\n  Written:         21,992 bytes"
+  },
+  {
+    "forum_id": "1909300",
+    "wiki_number": 193,
+    "title": "Realm Maintenance 2026 (Part I)",
+    "date": "2026-03-17",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 0,
+    "extractor_output": "Captured via Claude in Chrome (claude_in_chrome_dom_capture or partial)"
+  },
+  {
+    "forum_id": "1911816",
+    "wiki_number": 194,
+    "title": "Realm Maintenance 2026 (Part II)",
+    "date": "2026-03-24",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 87797,
+    "extractor_output": "===\n  Title:           'Dev Diary 194: Realm Maintenance 2026 (Part II)'\n  Author handle:   'Arakrates'\n  Date:            2026-03-24  (raw: 'Mar 24, 2026')\n  Body lines:      374  (3851 words)\n  Body images:     41\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 637\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_194_2026-03-24_realm-maintenance-2026-part-ii.md\n  Written:         26,818 bytes"
+  },
+  {
+    "forum_id": "1914929",
+    "wiki_number": 195,
+    "title": "Salve in Domino",
+    "date": "2026-04-07",
+    "expansion": "All Under Heaven",
+    "status": "ok",
+    "size_bytes": 87013,
+    "extractor_output": "rkspace-web_fetch-1781010883167.txt ===\n  Title:           'Dev Diary 195: Salve in Domino'\n  Author handle:   'lachek'\n  Date:            2026-03-31  (raw: 'Mar 31, 2026')\n  Body lines:      175  (3756 words)\n  Body images:     7\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 452\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_195_2026-03-31_salve-in-domino.md\n  Written:         26,337 bytes"
+  },
+  {
+    "forum_id": "1917178",
+    "wiki_number": 1,
+    "title": "Design Vision",
+    "date": "2026-04-21",
+    "expansion": "Silk & Silver",
+    "status": "ok",
+    "size_bytes": 88472,
+    "extractor_output": "itle:           '\"Silk & Silver\" Dev Diary #1 - Design Vision'\n  Author handle:   'Snow Crystal'\n  Date:            2026-04-16  (raw: 'Apr 16, 2026')\n  Body lines:      268  (4721 words)\n  Body images:     25\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 511\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_001_2026-04-16_silk-silver-dev-diary-1-design-vision.md\n  Written:         31,073 bytes"
+  },
+  {
+    "forum_id": "1919114",
+    "wiki_number": 1,
+    "title": "Tenets & Spiritual Fulfillment",
+    "date": "2026-04-27",
+    "expansion": "By God Alone",
+    "status": "ok",
+    "size_bytes": 87094,
+    "extractor_output": "   '\"By God Alone\" Dev Diary #1 - Tenets & Spiritual Fulfillment'\n  Author handle:   'lachek'\n  Date:            2026-04-27  (raw: 'Apr 27, 2026')\n  Body lines:      193  (3808 words)\n  Body images:     17\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 386\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_001_2026-04-27_by-god-alone-dev-diary-1-tenets-spiritua.md\n  Written:         26,351 bytes"
+  },
+  {
+    "forum_id": "1920599",
+    "wiki_number": 2,
+    "title": "Ecclesiastical Power & Rites",
+    "date": "2026-05-05",
+    "expansion": "By God Alone",
+    "status": "ok",
+    "size_bytes": 86378,
+    "extractor_output": "       '\"By God Alone\" Dev Diary #2 - Ecclesiastical Power & Rites'\n  Author handle:   'lachek'\n  Date:            2026-05-05  (raw: 'May 5, 2026')\n  Body lines:      178  (3415 words)\n  Body images:     18\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 385\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_002_2026-05-05_by-god-alone-dev-diary-2-ecclesiastical.md\n  Written:         24,349 bytes"
+  },
+  {
+    "forum_id": "1922255",
+    "wiki_number": 2,
+    "title": "Trade Vision",
+    "date": "2026-05-12",
+    "expansion": "Silk & Silver",
+    "status": "ok",
+    "size_bytes": 86614,
+    "extractor_output": "=\n  Title:           '\"Silk & Silver\" Dev Diary #2 - Trade Vision'\n  Author handle:   'chaddling'\n  Date:            2026-05-12  (raw: 'May 12, 2026')\n  Body lines:      193  (2864 words)\n  Body images:     17\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 445\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_002_2026-05-12_silk-silver-dev-diary-2-trade-vision.md\n  Written:         21,538 bytes"
+  },
+  {
+    "forum_id": "1923707",
+    "wiki_number": 3,
+    "title": "Puppets & Theocratic Play",
+    "date": "2026-05-19",
+    "expansion": "By God Alone",
+    "status": "ok",
+    "size_bytes": 85855,
+    "extractor_output": "        '\"By God Alone\" Dev Diary #3 - Puppets & Theocratic Play'\n  Author handle:   'lachek'\n  Date:            2026-05-19  (raw: 'May 19, 2026')\n  Body lines:      164  (2758 words)\n  Body images:     11\n  Banner:          no\n  Reactions:       6 entries\n  Signature:       detected\n  Reply boundary:  line 410\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_003_2026-05-19_by-god-alone-dev-diary-3-puppets-theocra.md\n  Written:         20,512 bytes"
+  },
+  {
+    "forum_id": "1924995",
+    "wiki_number": 3,
+    "title": "Merchants Vision",
+    "date": "2026-05-26",
+    "expansion": "Silk & Silver",
+    "status": "ok",
+    "size_bytes": 86994,
+    "extractor_output": "           '\"Silk & Silver\" Dev Diary #3 - Merchants Vision'\n  Author handle:   'PinkAxelotl'\n  Date:            2026-05-26  (raw: 'May 26, 2026')\n  Body lines:      268  (2711 words)\n  Body images:     24\n  Banner:          no\n  Reactions:       5 entries\n  Signature:       detected\n  Reply boundary:  line 513\n  Output file:     /sessions/eager-zealous-hawking/mnt/26_NEH_WORKSHOP/Week 3/ck3_dev_diaries/dd_003_2026-05-26_silk-silver-dev-diary-3-merchants-vision.md\n  Written:         20,880 bytes"
+  }
+]

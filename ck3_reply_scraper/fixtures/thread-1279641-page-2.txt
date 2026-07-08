@@ -1,0 +1,44 @@
+CK3 Dev Diary #3 - War | Page 2 | Paradox Interactive Forums
+https://forum.paradoxplaza.com/forum/threads/.1279641/page-2
+→ https://forum.paradoxplaza.com/forum/developer-diary/ck3-dev-diary-3-war.1279641/page-2
+Content-Type: text/html; charset=utf-8
+
+### [DefenderOfFaith](https://forum.paradoxplaza.com/forum/members/defenderoffaith.999000/)
+
+Duke
+
+Nov 14, 2019 [#7](https://forum.paradoxplaza.com/forum/threads/ck3-dev-diary-3-war.1279641/post-25514220)
+
+Holy wars were my favourite part of CK2. Glad to see religious casus belli return with more depth.
+
+- 19![Like](data:image/png;base64,xxxx)
+- [Add bookmark] [Report] [Share]
+
+### [NumbersGoblin](https://forum.paradoxplaza.com/forum/members/numbersgoblin.121212/)
+
+Baron
+
+Nov 14, 2019 [#8](https://forum.paradoxplaza.com/forum/threads/ck3-dev-diary-3-war.1279641/post-25514301)
+
+Please expose the combat width and damage formulas in the defines so modders can rebalance. Transparency on the math would be huge.
+
+- 31![Like](data:image/png;base64,xxxx)
+- [Add bookmark] [Report] [Share]
+
+### [Servancour](https://forum.paradoxplaza.com/forum/members/servancour.465268/)
+
+Paradox Staff
+
+Nov 14, 2019 [#9](https://forum.paradoxplaza.com/forum/threads/ck3-dev-diary-3-war.1279641/post-25514455)
+
+NumbersGoblin said:
+expose the combat width and damage formulas
+Click to expand...
+
+Most of it lives in script and defines, yes — we want this very moddable. More in a future diary.
+
+- 57![Love](data:image/png;base64,xxxx)
+- [Add bookmark] [Report] [Share]
+
+Page 2 of 2
+Prev
